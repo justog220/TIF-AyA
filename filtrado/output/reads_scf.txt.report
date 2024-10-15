@@ -1,0 +1,1465 @@
+--- Report from 'Estimate Base Accuracies' ---
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT91TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO03TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM69TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAI30TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDF74TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAV11TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE59TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF74TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRES88TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM31TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT08TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBS96TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAL24TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREU31TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCY79TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCN09TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCV68TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH47TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH93TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAJ54TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT43TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH58TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCH47TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ93TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ69TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAX37TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH14TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT27TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD49TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBJ68TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC12TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM92TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ58TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ90TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCS93TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD44TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF24TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD68TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBR22TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAT52TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBQ12TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAO39TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD27TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT46TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW06TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAY14TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBY34TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO65TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD07TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ80TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREX14TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ92TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR23TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT45TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCR55TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW07TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAV48TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFL06TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TF.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TR.scf: assigned base accuracies
+SEQ /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TF.scf: assigned base accuracies
+
+--- Report from 'Initialise Experiment Files' ---
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT91TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT91TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT91TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT91TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO03TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO03TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO03TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO03TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM69TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM69TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM69TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM69TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD50TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAI30TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAI30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAI30TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAI30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDF74TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDF74TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDF74TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDF74TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAV11TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAV11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAV11TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAV11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE59TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE59TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF74TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF74TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF74TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF74TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRES88TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRES88TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRES88TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRES88TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBX52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM31TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM31TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM31TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM31TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDU19TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBL08TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT08TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT08TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT08TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT08TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAU21TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBS96TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBS96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBS96TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBS96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAL24TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAL24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAL24TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAL24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREU31TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREU31TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREU31TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREU31TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAN41TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCY79TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCY79TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCY79TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCY79TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCN09TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCN09TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCN09TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCN09TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAW83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCV68TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCV68TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCV68TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCV68TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP47TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH47TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH47TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH47TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH47TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCA26TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH93TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH93TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAJ54TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAJ54TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAJ54TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAJ54TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT43TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT43TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCT43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBH75TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH58TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH58TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCH47TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCH47TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCH47TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCH47TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCG12TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ93TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ93TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC30TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBI82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH88TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ69TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ69TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ69TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ69TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBQ74TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDL96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAX37TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAX37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAX37TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAX37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH14TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH14TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH14TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAH14TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT27TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT27TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT27TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT27TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCC91TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD49TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD49TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD49TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD49TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA65TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBJ68TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBJ68TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBJ68TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBJ68TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC12TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC12TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC12TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBC12TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAW94TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAS18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM92TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM92TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM92TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBM92TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ58TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ58TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREV17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ90TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ90TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ90TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ90TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCS93TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCS93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCS93TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCS93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE21TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRET30TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCA43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAJ45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY36TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD44TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD44TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD44TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD44TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF24TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF24TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF24TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCR45TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA58TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR82TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ59TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD68TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD68TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD68TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCD68TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBR22TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBR22TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBR22TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBR22TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCJ89TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCF37TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBV17TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE17TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBZ59TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBG79TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAZ20TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAA24TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAT52TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAT52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAT52TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAT52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBQ12TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBQ12TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBQ12TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBQ12TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI24TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCI22TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW18TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAO39TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAO39TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAO39TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAO39TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDK52TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC63TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCF37TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDA71TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDR43TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ96TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD27TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD27TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD27TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD27TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUDB25TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT46TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT46TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDB44TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP63TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDP11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDJ06TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDW40TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDT23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBC20TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREP84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAD90TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW06TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW06TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW06TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW06TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCS49TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAE46TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAY14TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAY14TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAY14TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAY14TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBY34TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBY34TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBY34TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBY34TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO65TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO65TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO65TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCO65TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR64TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD07TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD07TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD07TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFD07TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ80TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ80TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ80TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ80TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREX14TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREX14TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREX14TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREX14TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREF64TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCC53TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ92TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ92TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ92TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREZ92TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR23TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR23TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAR23TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAQ61TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBE75TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT45TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT45TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBT45TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCQ58TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBA83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDC23TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCH54TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCR55TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCR55TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCR55TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCR55TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAT05TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREM26TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREI96TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW07TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW07TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW07TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUBW07TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUCL83TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRDD35TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAR93TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAF84TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAV48TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAV48TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAV48TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBUAV48TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRGH69TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBI05TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRED77TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFL06TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFL06TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFL06TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRFL06TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREN11TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBT84TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRBY61TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRCO71TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TR.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TR.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBREH01TR.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TF.scf: copied from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TF.scf
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TF.exp: created from /home/justo/Documentos/TPIAyA/filtrado/../data/set3/GBRAG60TF.scf
+
+--- Report from 'Augment Experiment Files' ---
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT91TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO03TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM69TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAI30TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDF74TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAV11TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE59TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF74TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRES88TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM31TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT08TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBS96TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAL24TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREU31TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCY79TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCN09TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCV68TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH47TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH93TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAJ54TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT43TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH58TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCH47TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ93TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ69TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAX37TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH14TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT27TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD49TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBJ68TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC12TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM92TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ58TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ90TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCS93TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD44TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF24TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD68TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBR22TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAT52TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBQ12TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAO39TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD27TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT46TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW06TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAY14TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBY34TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO65TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD07TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ80TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREX14TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ92TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR23TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT45TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCR55TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW07TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAV48TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFL06TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TF.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TR.exp: added fields SI
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TF.exp: added fields SI
+
+--- Report from 'Quality Clip' ---
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT91TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO03TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM69TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAI30TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDF74TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAV11TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE59TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF74TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRES88TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM31TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT08TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBS96TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAL24TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREU31TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCY79TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCN09TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCV68TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH47TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH93TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAJ54TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT43TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH58TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCH47TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ93TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ69TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAX37TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH14TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT27TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD49TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBJ68TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC12TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM92TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ58TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ90TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCS93TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD44TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF24TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD68TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBR22TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAT52TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBQ12TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAO39TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD27TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT46TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW06TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAY14TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBY34TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO65TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD07TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ80TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREX14TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ92TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR23TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT45TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCR55TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW07TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAV48TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFL06TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TF.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TR.exp: clipped using 'qclip'
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TF.exp: clipped using 'qclip'
+
+--- Report from 'Sequencing Vector Clip' ---
+ERR: vector_clip failed with error message '..................................................................................................................................................................................................................................................'.
+
+--- Report from 'Screen For Unclipped Vector' ---
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT91TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO03TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM69TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD50TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAI30TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDF74TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAV11TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE59TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ58TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF74TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRES88TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBX52TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM31TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED82TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDU19TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBL08TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT08TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAU21TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBS96TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAL24TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREU31TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAN41TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCY79TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCN09TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAW83TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH23TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCV68TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP47TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH47TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCA26TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH93TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAJ54TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCT43TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBH75TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH58TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCH47TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCG12TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ93TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC30TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBI82TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH88TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ69TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBQ74TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDL96TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAX37TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAH14TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT27TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCC91TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD49TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA45TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA65TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBJ68TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBC12TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAW94TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAS18TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBM92TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ58TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREV17TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ90TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCS93TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE21TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF52TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRET30TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCA43TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAJ45TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY36TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD44TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI11TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF24TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCR45TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP46TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA58TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR82TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ59TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCD68TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBR22TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCJ89TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR18TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCF37TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBV17TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE17TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBZ59TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBG79TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAZ20TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAA24TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAT52TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBQ12TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI24TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCI22TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW18TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAO39TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDK52TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC63TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCF37TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDA71TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDR43TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ96TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD27TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUDB25TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT46TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDB44TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP63TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDP11TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDJ06TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDW40TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDT23TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBC20TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREP84TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAD90TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW06TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCS49TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAE46TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAY14TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBY34TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCO65TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR64TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFD07TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ80TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREX14TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREF64TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCC53TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREZ92TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAR23TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAQ61TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBE75TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBT45TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCQ58TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBA83TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDC23TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCH54TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCR55TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAT05TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREM26TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREI96TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUBW07TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUCL83TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRDD35TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAR93TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAF84TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBUAV48TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRGH69TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBI05TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRED77TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRFL06TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREN11TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBT84TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRBY61TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRCO71TF.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBREH01TR.exp: passed
+SEQ /home/justo/Documentos/TPIAyA/filtrado/GBRAG60TF.exp: passed
+
