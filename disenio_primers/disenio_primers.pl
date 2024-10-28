@@ -62,20 +62,6 @@ while($feature = $gffio->next_feature())
 		$seq_rv = $seq->trunc($fin-4, $fin+15)->seq;
 		$seq_rv =~ tr/ACGT/TGCA/;
 	}
-	# # Definir secuencias forward y reverse
-	# my ($seq_fw, $seq_rv);
-	# if ($feature->strand > 0) {
-	# 	# Gen en hebra positiva
-	# 	$seq_fw = $seq->subseq($inicio - 5, $inicio + 14);  # Primer forward
-	# 	$seq_rv = $seq->subseq($fin - 14, $fin + 5);         # Secuencia de la hebra negativa
-	# 	$seq_rv = Bio::Seq->new(-seq => $seq_rv)->revcom->seq; # Convertir a complementaria
-	# } else {
-	# 	# Gen en hebra negativa
-	# 	$seq_rv = $seq->subseq($inicio - 5, $inicio + 14);   # Primer reverse
-	# 	$seq_fw = $seq->subseq($fin - 14, $fin + 5);          # Secuencia de la hebra positiva
-	# 	$seq_fw = Bio::Seq->new(-seq => $seq_fw)->revcom->seq; # Convertir a complementaria
-	# }
-
 
 	my %conteos_fw;
 	my %conteos_rv;
@@ -88,9 +74,9 @@ while($feature = $gffio->next_feature())
 	# print Dumper(\%conteos_fw);
 	# print Dumper(\%conteos_rv);
 
-	my $Tm_fw = 4 * ($conteos_fw{'G'} + $conteos_fw{'C'}) + 2 * ($conteos_fw{'A'} + $conteos_fw{'T'}) * $conteos_fw{'C'};
+	my $Tm_fw = 4 * ($conteos_fw{'G'} + $conteos_fw{'C'}) + 2 * ($conteos_fw{'A'} + $conteos_fw{'T'});
 	my $Ta_fw = $Tm_fw - 5;
-	my $Tm_rv = 4 * ($conteos_rv{'G'} + $conteos_rv{'C'}) + 2 * ($conteos_rv{'A'} + $conteos_rv{'T'}) * $conteos_rv{'C'};
+	my $Tm_rv = 4 * ($conteos_rv{'G'} + $conteos_rv{'C'}) + 2 * ($conteos_rv{'A'} + $conteos_rv{'T'});
 	my $Ta_rv = $Tm_rv - 5;
 
 	my $tamanio = $feature->length;
