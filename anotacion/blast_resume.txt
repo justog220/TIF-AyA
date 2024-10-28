@@ -1,0 +1,552 @@
+PROKKA_00001.xml
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00002.xml
+	|_glutamate decarboxylase beta [Brucella pinnipedialis B2/94]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase beta [Brucella microti CCM 4915]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella canis HSK A52141]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella microti]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella inopinata]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella inopinata]
+	|	|_E-value: 0.0
+	|_glutamate decarboxylase [Brucella sp. 10RB9215]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00003.xml
+	|_glutamate decarboxylase beta [Brucella canis HSK A52141]
+	|	|_E-value: 2.07036e-95
+	|_hypothetical protein DK64_490 [Brucella neotomae 5K33]
+	|	|_E-value: 1.02477e-94
+	|_glutamate decarboxylase beta [Brucella neotomae]
+	|	|_E-value: 4.30965e-94
+	|_hypothetical protein C037_02073 [Brucella suis 63/198]
+	|	|_E-value: 4.33095e-94
+	|_glutamate decarboxylase alpha [Brucella melitensis bv. 2 str. 63/9]
+	|	|_E-value: 1.43263e-93
+	|_glutamate decarboxylase [Brucella melitensis M28]
+	|	|_E-value: 2.92371e-93
+	|_glutamate decarboxylase beta [Brucella melitensis bv. 1 str. 16M]
+	|	|_E-value: 9.50277e-93
+	|_Pyridoxal-dependent decarboxylase [Brucella abortus S19]
+	|	|_E-value: 2.81083e-92
+	|_glutamate decarboxylase [Brucella abortus A13334]
+	|	|_E-value: 6.32222e-92
+	|_glutamate decarboxylase [Brucella suis ATCC 23445]
+	|	|_E-value: 6.36343e-92
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00004.xml
+	|_Glutamate/gamma-aminobutyrate antiporter [Brucella ceti str. Cudo]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella neotomae]
+	|	|_E-value: 0.0
+	|_amino acid transporter [Brucella neotomae 5K33]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella abortus]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella suis]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella microti]
+	|	|_E-value: 0.0
+	|_amino acid transporter [Brucella abortus S99]
+	|	|_E-value: 0.0
+	|_putative glutamine/gamma-aminobutyrate antiporter GadC [Brucella sp. 10RB9215]
+	|	|_E-value: 0.0
+	|_amino acid/polyamine transporter, family I [Brucella abortus NCTC 8038]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00005.xml
+	|_glutaminase A [Brucella]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella sp. 10RB9215]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella sp. 04-5288]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella sp. 2716]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella ceti]
+	|	|_E-value: 0.0
+	|_glutaminase A [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella suis]
+	|	|_E-value: 0.0
+	|_glutaminase A [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutaminase A [Brucella inopinata]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00006.xml
+	|_acid-activated periplasmic chaperone HdeA [Brucella]
+	|	|_E-value: 2.15271e-74
+	|_acid-activated periplasmic chaperone HdeA [Brucella]
+	|	|_E-value: 1.39148e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella abortus]
+	|	|_E-value: 3.46084e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella sp. 2716]
+	|	|_E-value: 5.19491e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella melitensis]
+	|	|_E-value: 5.60984e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella]
+	|	|_E-value: 6.3997e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella melitensis]
+	|	|_E-value: 6.3997e-73
+	|_acid-activated periplasmic chaperone HdeA [Brucella]
+	|	|_E-value: 9.7123e-73
+	|_acid-activated periplasmic chaperone HdeA [unclassified Brucella]
+	|	|_E-value: 1.79596e-72
+	|_acid-activated periplasmic chaperone HdeA [unclassified Brucella]
+	|	|_E-value: 3.00859e-72
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00007.xml
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 8.66335e-27
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 8.75897e-27
+	|_hypothetical protein BAbS19_II07950 [Brucella abortus S19]
+	|	|_E-value: 9.10885e-27
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 9.45847e-27
+	|_hypothetical protein [Brucella sp. 2280]
+	|	|_E-value: 9.45847e-27
+	|_hypothetical protein [unclassified Brucella]
+	|	|_E-value: 1.01023e-26
+	|_hypothetical protein [Brucella sp. 10RB9213]
+	|	|_E-value: 1.02138e-26
+	|_hypothetical protein [Brucella sp. 2716]
+	|	|_E-value: 1.43536e-26
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 3.3788e-26
+	|_hypothetical protein BCA52141_II0711 [Brucella canis HSK A52141]
+	|	|_E-value: 3.92737e-26
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00008.xml
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella abortus]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella suis]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella canis]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+	|_EAL domain-containing protein [Brucella]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00009.xml
+	|_LysR family transcriptional regulator [Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella abortus]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella ovis]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella sp. 2716]
+	|	|_E-value: 0.0
+	|_LysR family transcriptional regulator [Brucella suis]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00010.xml
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella canis]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella sp. F96/2]
+	|	|_E-value: 0.0
+	|_mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Brucella melitensis]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00011.xml
+	|_phosphomannomutase [Brucella]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella abortus]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_phosphomannomutase [Brucella melitensis]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00012.xml
+	|_P1 family peptidase [Brucella]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella sp. 63/311]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella ovis]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [Brucella suis]
+	|	|_E-value: 0.0
+	|_P1 family peptidase [unclassified Brucella]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00013.xml
+	|_chloride channel protein [Brucella]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella melitensis bv. 1 str. 16M]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella abortus]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella ovis]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella sp. 63/311]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella inopinata]
+	|	|_E-value: 0.0
+	|_chloride channel protein [Brucella abortus]
+	|	|_E-value: 0.0
+	|_chloride channel protein [unclassified Brucella]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00014.xml
+	|_IMP dehydrogenase [Brucella]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [Brucella]
+	|	|_E-value: 0.0
+	|_inosine-5''-monophosphate dehydrogenase [Brucella ceti str. Cudo]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [Brucella abortus]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [Brucella sp. 6810]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [Brucella]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_inosine-5'-monophosphate dehydrogenase [Brucella melitensis bv. 1 str. 16M]
+	|	|_E-value: 0.0
+	|_IMP dehydrogenase [Brucella suis]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00015.xml
+	|_c-type cytochrome [Brucella]
+	|	|_E-value: 0.0
+	|_Cytochrome c heme-binding site [Brucella abortus S19]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella abortus]
+	|	|_E-value: 0.0
+	|_cytochrome c heme-binding site [Brucella suis bv. 4 str. 40]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella abortus]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella abortus]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella abortus]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella]
+	|	|_E-value: 0.0
+	|_c-type cytochrome [Brucella sp. BO2]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00016.xml
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella suis]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella canis]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella neotomae]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_hydrogen peroxide-inducible genes activator [Brucella]
+	|	|_E-value: 0.0
+	|_LysR substrate-binding domain-containing protein, partial [Brucella abortus]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00017.xml
+	|_Catalase [Brucella canis HSK A52141]
+	|	|_E-value: 0.0
+	|_catalase KatA [Brucella]
+	|	|_E-value: 0.0
+	|_catalase [Brucella melitensis bv. 1 str. 16M]
+	|	|_E-value: 0.0
+	|_catalase KatA [Brucella canis]
+	|	|_E-value: 0.0
+	|_catalase [Brucella abortus S99]
+	|	|_E-value: 0.0
+	|_catalase KatA [Brucella]
+	|	|_E-value: 0.0
+	|_catalase KatA [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_catalase [Brucella melitensis]
+	|	|_E-value: 0.0
+	|_catalase KatA [Brucella abortus]
+	|	|_E-value: 0.0
+	|_catalase KatA [unclassified Brucella]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00018.xml
+	|_predicted protein [Brucella pinnipedialis M292/94/1]
+	|	|_E-value: 1.47336e-32
+	|_hypothetical protein BRA0356 [Brucella suis 1330]
+	|	|_E-value: 1.47336e-32
+	|_hypothetical protein, partial [Brucella melitensis]
+	|	|_E-value: 1.86446e-32
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 2.88364e-32
+	|_hypothetical protein [Brucella sp. 458]
+	|	|_E-value: 3.87952e-32
+	|_predicted protein [Brucella sp. 83/13]
+	|	|_E-value: 4.61781e-32
+	|_hypothetical protein [Brucella]
+	|	|_E-value: 7.92392e-32
+	|_hypothetical protein [Brucella abortus]
+	|	|_E-value: 1.19917e-31
+	|_hypothetical protein [unclassified Brucella]
+	|	|_E-value: 3.64925e-31
+	|_hypothetical protein [Brucella abortus]
+	|	|_E-value: 4.96375e-31
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00019.xml
+	|_disulfide bond formation protein B [Brucella]
+	|	|_E-value: 4.12247e-146
+	|_disulfide bond formation protein B [Brucella]
+	|	|_E-value: 4.22068e-145
+	|_disulfide bond formation protein B [Brucella suis]
+	|	|_E-value: 6.61841e-145
+	|_disulfide bond formation protein B [Brucella]
+	|	|_E-value: 1.10845e-144
+	|_disulfide bond formation protein B [Brucella abortus]
+	|	|_E-value: 1.52371e-144
+	|_disulfide bond formation protein B [Brucella]
+	|	|_E-value: 4.41688e-144
+	|_disulfide bond formation protein B [Brucella ovis]
+	|	|_E-value: 6.20628e-144
+	|_disulfide bond formation protein B [Brucella abortus]
+	|	|_E-value: 9.52067e-144
+	|_disulfide bond formation protein B [Brucella abortus]
+	|	|_E-value: 1.07419e-143
+	|_disulfide bond formation protein B [Brucella abortus]
+	|	|_E-value: 1.18568e-143
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00020.xml
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella inopinata]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella sp. 2716]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella sp. NVSL 07-0026]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella abortus]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [Brucella]
+	|	|_E-value: 0.0
+	|_RsmB/NOP family class I SAM-dependent RNA methyltransferase [unclassified Brucella]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00021.xml
+	|_phenylacetic acid degradation protein [Brucella suis]
+	|	|_E-value: 1.12438e-137
+	|_hypothetical protein C010_02576 [Brucella ovis 80/125]
+	|	|_E-value: 6.36705e-137
+	|_phenylacetic acid degradation protein [Brucella canis]
+	|	|_E-value: 9.14564e-137
+	|_hypothetical protein C060_02990 [Brucella melitensis UK22/04]
+	|	|_E-value: 2.35008e-136
+	|_phenylacetic acid degradation protein [Brucella neotomae 5K33]
+	|	|_E-value: 2.74034e-136
+	|_phenylacetic acid degradation protein PAAI [Brucella ceti TE10759-12]
+	|	|_E-value: 1.08068e-132
+	|_conserved hypothetical protein [Brucella ovis ATCC 25840]
+	|	|_E-value: 5.13373e-132
+	|_thioesterase superfamily protein [Brucella canis HSK A52141]
+	|	|_E-value: 9.38742e-132
+	|_hypothetical protein BR141012304_20212 [Brucella inopinata]
+	|	|_E-value: 1.39351e-131
+	|_hypothetical protein C050_02193 [Brucella suis 92/63]
+	|	|_E-value: 1.93678e-131
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00022.xml
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella]
+	|	|_E-value: 8.55644e-149
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella ceti]
+	|	|_E-value: 2.53548e-148
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella]
+	|	|_E-value: 4.73896e-148
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella sp. 04-5288]
+	|	|_E-value: 5.00621e-148
+	|_phosphorylase superfamily protein [Brucella suis]
+	|	|_E-value: 7.24733e-148
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [unclassified Brucella]
+	|	|_E-value: 8.66507e-148
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella abortus]
+	|	|_E-value: 9.25473e-148
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella sp. 63/311]
+	|	|_E-value: 1.51635e-147
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis]
+	|	|_E-value: 1.53308e-147
+	|_5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis]
+	|	|_E-value: 1.72975e-147
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00023.xml
+	|_glutamine-hydrolyzing GMP synthase [Brucella]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella abortus]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella abortus]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [unclassified Brucella]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella sp. BO2]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella ceti]
+	|	|_E-value: 0.0
+	|_glutamine-hydrolyzing GMP synthase [Brucella ovis]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00024.xml
+	|_hypothetical protein C064_02129 [Brucella suis 63/252]
+	|	|_E-value: 0.0
+	|_hypothetical protein P041_03145 [Brucella sp. 04-5288]
+	|	|_E-value: 0.0
+	|_Hypothetical protein, conserved [Brucella ceti str. Cudo]
+	|	|_E-value: 0.0
+	|_Integrase [Brucella canis HSK A52141]
+	|	|_E-value: 0.0
+	|_Phage integrase [Brucella suis bv. 2]
+	|	|_E-value: 0.0
+	|_hypothetical protein C983_02679 [Brucella sp. F23/97]
+	|	|_E-value: 0.0
+	|_hypothetical protein C979_02314 [Brucella canis UK10/02]
+	|	|_E-value: 0.0
+	|_hypothetical protein C038_03095 [Brucella sp. 63/311]
+	|	|_E-value: 0.0
+	|_hypothetical protein B987_02307 [Brucella suis F7/06-5]
+	|	|_E-value: 0.0
+	|_hypothetical protein BAZG_02313 [Brucella sp. NVSL 07-0026]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00025.xml
+	|_AlpA family transcriptional regulator [Brucella]
+	|	|_E-value: 1.80583e-48
+	|_AlpA family transcriptional regulator [Pseudomonadota]
+	|	|_E-value: 4.9805e-47
+	|_AlpA family phage regulatory protein [Escherichia coli]
+	|	|_E-value: 7.64374e-47
+	|_AlpA family phage regulatory protein [Serratia marcescens]
+	|	|_E-value: 8.62535e-47
+	|_AlpA family transcriptional regulator [Pseudomonadota]
+	|	|_E-value: 1.19916e-46
+	|_AlpA family phage regulatory protein [Escherichia coli]
+	|	|_E-value: 1.19916e-46
+	|_AlpA family transcriptional regulator [Klebsiella]
+	|	|_E-value: 1.21241e-46
+	|_AlpA family transcriptional regulator [Klebsiella]
+	|	|_E-value: 1.28085e-46
+	|_AlpA family transcriptional regulator [Enterobacter hormaechei]
+	|	|_E-value: 1.49376e-46
+	|_AlpA family transcriptional regulator [Escherichia coli]
+	|	|_E-value: 1.56085e-46
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROKKA_00026.xml
+	|_replication initiator protein A [Brucella]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella ceti]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella neotomae]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Brucella]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Enterobacteriaceae]
+	|	|_E-value: 0.0
+	|_hypothetical protein P041_03162 [Brucella sp. 04-5288]
+	|	|_E-value: 0.0
+	|_replication initiator protein A [Enterobacteriaceae]
+	|	|_E-value: 0.0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

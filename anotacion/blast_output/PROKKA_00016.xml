@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1272167</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00016 Hydrogen peroxide-inducible genes activator</BlastOutput_query-def>
+  <BlastOutput_query-len>317</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1272167</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00016 Hydrogen peroxide-inducible genes activator</Iteration_query-def>
+  <Iteration_query-len>317</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_004690103.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|AAN33552.1| transcriptional regulator OxyR [Brucella suis 1330] &gt;gb|ABX63541.1| Transcriptional regulator [Brucella canis ATCC 23365] &gt;gb|AEM19831.1| transcriptional regulator OxyR [Brucella suis 1330] &gt;gb|AEU07501.1| transcriptional regulator OxyR [Brucella suis VBI22] &gt;gb|AHN48100.1| oxyR [Brucella suis bv. 1 str. S2]</Hit_def>
+  <Hit_accession>WP_004690103</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>646.736</Hsp_bit-score>
+      <Hsp_score>1667</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_006073466.1|</Hit_id>
+  <Hit_def>hydrogen peroxide-inducible genes activator [Brucella suis] &gt;gb|ABY39363.1| Hypothetical protein, conserved [Brucella suis ATCC 23445] &gt;gb|AIB19009.1| Hydrogen peroxide-inducible genes activator [Brucella suis bv. 2] &gt;gb|AIB22390.1| Hydrogen peroxide-inducible genes activator [Brucella suis bv. 2] &gt;gb|AIB25746.1| Hydrogen peroxide-inducible genes activator [Brucella suis bv. 2] &gt;gb|AIB29138.1| Hydrogen peroxide-inducible genes activator [Brucella suis bv. 2]</Hit_def>
+  <Hit_accession>WP_006073466</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.81</Hsp_bit-score>
+      <Hsp_score>1662</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDTIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLD IVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_014315891.1|</Hit_id>
+  <Hit_def>hydrogen peroxide-inducible genes activator [Brucella canis] &gt;gb|AEW15610.1| transcription factor OxyR [Brucella canis HSK A52141]</Hit_def>
+  <Hit_accession>WP_014315891</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>643.654</Hsp_bit-score>
+      <Hsp_score>1659</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFLALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGF ALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_004688911.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|ACU49483.1| transcriptional regulator OxyR [Brucella microti CCM 4915] &gt;gb|AHB01098.1| transcriptional regulator OxyR [Brucella ceti TE10759-12] &gt;gb|AIJ66500.1| bacterial regulatory helix-turn-helix, lysR family protein [Brucella suis] &gt;gb|EEX88636.1| transcription factor OxyR [Brucella ceti M13/05/1] &gt;gb|EEX96035.1| transcription factor OxyR [Brucella ceti M644/93/1]</Hit_def>
+  <Hit_accession>WP_004688911</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>643.654</Hsp_bit-score>
+      <Hsp_score>1659</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_002966235.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|ERM87549.1| LysR family transcriptional regulator [Brucella abortus 82] &gt;gb|EXU84962.1| LysR family transcriptional regulator [Brucella melitensis 548] &gt;gb|KFH23683.1| LysR family transcriptional regulator [Brucella abortus LMN1] &gt;gb|KFH24784.1| LysR family transcriptional regulator [Brucella abortus LMN2] &gt;gb|AAD00508.1| transcription factor OxyR [Brucella abortus]</Hit_def>
+  <Hit_accession>WP_002966235</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>642.884</Hsp_bit-score>
+      <Hsp_score>1657</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGLLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRG+LQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_004687425.1|</Hit_id>
+  <Hit_def>hydrogen peroxide-inducible genes activator [Brucella neotomae] &gt;gb|EEY02869.1| transcription factor OxyR [Brucella neotomae 5K33] &gt;gb|KFJ58182.1| bacterial regulatory helix-turn-helix, lysR family protein [Brucella neotomae 5K33] &gt;emb|SPU67373.1| transcriptional regulator OxyR [Brucella neotomae] &gt;emb|SPU70735.1| transcriptional regulator OxyR [Brucella neotomae] &gt;emb|SUW61417.1| transcriptional regulator OxyR [Brucella neotomae]</Hit_def>
+  <Hit_accession>WP_004687425</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>642.114</Hsp_bit-score>
+      <Hsp_score>1655</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGAISMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGA SMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_006171807.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|EEX85430.1| transcription factor OxyR [Brucella ceti B1/94] &gt;gb|EEZ06918.1| transcription factor OxyR [Brucella ceti M490/95/1] &gt;gb|ENT05437.1| hypothetical protein C983_02687 [Brucella sp. F23/97] &gt;gb|ENT12897.1| hypothetical protein B998_03067 [Brucella sp. F96/2] &gt;gb|ENT20067.1| hypothetical protein C065_02209 [Brucella sp. UK1/97]</Hit_def>
+  <Hit_accession>WP_006171807</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>641.343</Hsp_bit-score>
+      <Hsp_score>1653</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFAVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MF VRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_004681687.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|EPZ76429.1| LysR family transcriptional regulator [Brucella melitensis ADMAS-G1] &gt;gb|AAL54136.1| hydrogen peroxide-inducible genes activator [Brucella melitensis bv. 1 str. 16M] &gt;gb|AIJ88021.1| bacterial regulatory helix-turn-helix, lysR family protein [Brucella melitensis bv. 1 str. 16M] &gt;gb|ARY45030.1| LysR family transcriptional regulator [Brucella melitensis] &gt;gb|ARY48188.1| LysR family transcriptional regulator [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_004681687</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>641.343</Hsp_bit-score>
+      <Hsp_score>1653</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGLLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRENVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRG+LQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRE+VTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_006643200.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hydrogen peroxide-inducible genes activator [Brucella] &gt;gb|EEH13693.1| transcriptional regulator, LysR family protein [Brucella ceti str. Cudo] &gt;gb|EEY24495.1| transcription factor OxyR [Brucella sp. F5/99] &gt;dbj|GFP62125.1| LysR family transcriptional regulator [Brucella ceti]</Hit_def>
+  <Hit_accession>WP_006643200</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>641.343</Hsp_bit-score>
+      <Hsp_score>1653</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKRESALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>MFTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKRE ALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_346217779.1|</Hit_id>
+  <Hit_def>LysR substrate-binding domain-containing protein, partial [Brucella abortus] &gt;gb|MEN3603002.1| LysR substrate-binding domain-containing protein [Brucella abortus]</Hit_def>
+  <Hit_accession>WP_346217779</Hit_accession>
+  <Hit_len>316</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>640.573</Hsp_bit-score>
+      <Hsp_score>1651</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>316</Hsp_align-len>
+      <Hsp_qseq>FTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGVLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKGFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_qseq>
+      <Hsp_hseq>FTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRGLLQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGKDFRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_hseq>
+      <Hsp_midline>FTVRQIRYFDALASTLHFRKAAELAHVSQPALSAQIAEMEAIAGAPLFERSQRQVIMTELGKHLYPGIKAILRELQKLEEIAAQSRG+LQTGIKLGIIPTVAPYLVPVLIPLLHEQHPSFRLQLRESVTAKLLEELHAGDLDAIVAALPIDDEKLSHQKLFDDRFLIATSTNDHTVLASPMTQNHAALERLLLLEEGHCMRDQALAVCTLPSQRQLVKYGATSMSTLLQMVSHGMGLTLIPEIAVRAEARSNHMRIVPFEGEQPKREIALFWRRQSMRGK FRALAECIAESANKLKIDPSKIDTLLDNPSTPSYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

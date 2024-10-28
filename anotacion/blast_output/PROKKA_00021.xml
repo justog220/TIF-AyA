@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1823975</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00021 hypothetical protein</BlastOutput_query-def>
+  <BlastOutput_query-len>191</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1823975</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00021 hypothetical protein</Iteration_query-def>
+  <Iteration_query-len>191</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|AIN85663.1|</Hit_id>
+  <Hit_def>phenylacetic acid degradation protein [Brucella suis] &gt;gb|AIN91144.1| phenylacetic acid degradation protein [Brucella abortus] &gt;gb|ALM35826.1| Phenylacetic acid degradation protein PaaD, thioesterase [Brucella melitensis] &gt;gb|EEH13698.1| thioesterase superfamily protein [Brucella ceti str. Cudo] &gt;gb|EEP62296.1| thioesterase superfamily protein [Brucella abortus str. 2308 A] &gt;gb|EHR08138.1| hypothetical protein M19_02728 [Brucella abortus bv. 1 str. NI474] &gt;gb|EHR10369.1| hypothetical protein M17_02058 [Brucella abortus bv. 1 str. NI435a] &gt;gb|EHR11576.1| hypothetical protein M1A_01470 [Brucella abortus bv. 1 str. NI486] &gt;gb|EHR17675.1| hypothetical protein M1G_02724 [Brucella abortus bv. 1 str. NI010] &gt;gb|EHR18517.1| hypothetical protein M1I_02726 [Brucella abortus bv. 1 str. NI016] &gt;gb|EHR25503.1| hypothetical protein M1K_02727 [Brucella abortus bv. 1 str. NI021] &gt;gb|EHR27014.1| hypothetical protein M1E_00211 [Brucella abortus bv. 1 str. NI488] &gt;gb|EHR27774.1| hypothetical protein M1M_02010 [Brucella abortus bv. 1 str. NI259] &gt;gb|ENP27491.1| hypothetical protein C041_02315 [Brucella abortus 63/59] &gt;gb|ENP30899.1| hypothetical protein C084_02628 [Brucella abortus 64/122] &gt;gb|ENP33745.1| hypothetical protein C088_02505 [Brucella abortus 65/110] &gt;gb|ENP36868.1| hypothetical protein C040_02943 [Brucella abortus 67/781] &gt;gb|ENP40765.1| hypothetical protein C055_03012 [Brucella abortus 78/36] &gt;gb|ENP43383.1| hypothetical protein C082_02504 [Brucella abortus 80/102] &gt;gb|ENP46830.1| hypothetical protein C077_02842 [Brucella abortus 80/108] &gt;gb|ENP49354.1| hypothetical protein C053_02938 [Brucella abortus 85/140] &gt;gb|ENP52595.1| hypothetical protein C072_02794 [Brucella abortus 863/67] &gt;gb|ENP56518.1| hypothetical protein C029_02725 [Brucella abortus 88/19] &gt;gb|ENP59430.1| hypothetical protein C073_02936 [Brucella abortus 88/226] &gt;gb|ENP61799.1| hypothetical protein C075_02215 [Brucella abortus 90/50] &gt;gb|ENP65588.1| hypothetical protein C076_02839 [Brucella abortus 93/1] &gt;gb|ENP68717.1| hypothetical protein C975_02836 [Brucella abortus CNGB 1011] &gt;gb|ENP71846.1| hypothetical protein C976_02839 [Brucella abortus CNGB 1432] &gt;gb|ENP74977.1| hypothetical protein C971_02840 [Brucella abortus CNGB 308] &gt;gb|ENP77511.1| hypothetical protein C970_02513 [Brucella abortus CNGB 436] &gt;gb|ENP81239.1| hypothetical protein C972_02840 [Brucella abortus CNGB 752] &gt;gb|ENP84256.1| hypothetical protein C973_02723 [Brucella abortus CNGB 759] &gt;gb|ENP87499.1| hypothetical protein C974_02838 [Brucella abortus CNGB 966] &gt;gb|ENP90627.1| hypothetical protein C070_02836 [Brucella abortus F1/06 B1] &gt;gb|ENP93152.1| hypothetical protein C071_02235 [Brucella abortus F2/06-8] &gt;gb|ENP96887.1| hypothetical protein C984_02838 [Brucella abortus F3/01-300] &gt;gb|ENQ00013.1| hypothetical protein C042_02833 [Brucella abortus F3/07-1] &gt;gb|ENQ02534.1| hypothetical protein C031_02793 [Brucella abortus F6/05-2] &gt;gb|ENQ06289.1| hypothetical protein C080_02878 [Brucella abortus levi gila] &gt;gb|ENQ09547.1| hypothetical protein C083_03014 [Brucella abortus LEVI237] &gt;gb|ENQ12484.1| hypothetical protein C014_02840 [Brucella abortus NI240] &gt;gb|ENQ15744.1| hypothetical protein C015_02940 [Brucella abortus NI274] &gt;gb|ENQ18743.1| hypothetical protein C017_02840 [Brucella abortus NI380] &gt;gb|ENQ21870.1| hypothetical protein C018_02838 [Brucella abortus NI388] &gt;gb|ENQ24997.1| hypothetical protein C020_02835 [Brucella abortus NI492] &gt;gb|ENQ28124.1| hypothetical protein C012_02839 [Brucella abortus NI518] &gt;gb|ENQ31210.1| hypothetical protein C022_02798 [Brucella abortus NI593] &gt;gb|ENQ33780.1| hypothetical protein C023_02797 [Brucella abortus NI613] &gt;gb|ENQ37507.1| hypothetical protein C024_02837 [Brucella abortus NI622] &gt;gb|ENQ40627.1| hypothetical protein C011_02634 [Brucella abortus NI628] &gt;gb|ENQ43102.1| hypothetical protein C025_02146 [Brucella abortus NI633] &gt;gb|ENQ46229.1| hypothetical protein C026_02797 [Brucella abortus NI639] &gt;gb|ENQ49685.1| hypothetical protein C027_02509 [Brucella abortus NI645] &gt;gb|ENQ53024.1| hypothetical protein C013_02722 [Brucella abortus NI649] &gt;gb|ENQ61754.1| hypothetical protein C045_02963 [Brucella melitensis 64/150] &gt;gb|ENQ65231.1| hypothetical protein C089_02938 [Brucella melitensis 66/59] &gt;gb|ENQ80688.1| hypothetical protein C091_03195 [Brucella melitensis F2/06-6] &gt;gb|ENQ87186.1| hypothetical protein C004_02957 [Brucella melitensis F6/05-6] &gt;gb|ENQ87673.1| hypothetical protein C061_02321 [Brucella melitensis F5/07-239A] &gt;gb|ENQ93543.1| hypothetical protein C035_02470 [Brucella melitensis R3/07-2] &gt;gb|ENR00142.1| hypothetical protein C046_02906 [Brucella melitensis UK22/06] &gt;gb|ENR08776.1| hypothetical protein C068_02373 [Brucella sp. UK38/05] &gt;gb|ENR11282.1| hypothetical protein C066_03136 [Brucella sp. UK5/01] &gt;gb|ENR19454.1| hypothetical protein C062_02407 [Brucella suis 92/29] &gt;gb|ENR26848.1| hypothetical protein C965_02412 [Brucella suis CNGB 786] &gt;gb|ENR38276.1| hypothetical protein B990_02831 [Brucella abortus 225/65] &gt;gb|ENR44077.1| hypothetical protein B993_02769 [Brucella abortus 355/78] &gt;gb|ENR45698.1| hypothetical protein B977_02975 [Brucella abortus 544] &gt;gb|ENR49133.1| hypothetical protein C002_02993 [Brucella abortus 600/64] &gt;gb|ENR52581.1| hypothetical protein B991_02766 [Brucella abortus 63/130] &gt;gb|ENR56570.1| hypothetical protein B994_02766 [Brucella abortus 63/138] &gt;gb|ENR59022.1| hypothetical protein B992_02755 [Brucella abortus 63/144] &gt;gb|ENR62458.1| hypothetical protein C028_02798 [Brucella abortus 63/168] &gt;gb|ENR65107.1| hypothetical protein C032_02774 [Brucella abortus 63/294] &gt;gb|ENR67472.1| hypothetical protein C078_02837 [Brucella abortus 64/108] &gt;gb|ENR71575.1| hypothetical protein B978_02977 [Brucella abortus 64/81] &gt;gb|ENR75486.1| hypothetical protein C079_02573 [Brucella abortus 65/157] &gt;gb|ENR75853.1| hypothetical protein B979_02973 [Brucella abortus 65/63] &gt;gb|ENR80792.1| hypothetical protein B983_02771 [Brucella abortus 67/93] &gt;gb|ENR83661.1| hypothetical protein B996_02759 [Brucella abortus 78/14] &gt;gb|ENR88180.1| hypothetical protein C981_03023 [Brucella abortus 78/32] &gt;gb|ENR89518.1| hypothetical protein C043_02224 [Brucella abortus 80/101] &gt;gb|ENR93766.1| hypothetical protein B973_02776 [Brucella abortus 80/28] &gt;gb|ENR95673.1| hypothetical protein B971_02990 [Brucella abortus 84/26] &gt;gb|ENS00240.1| hypothetical protein C030_03086 [Brucella abortus 85/69] &gt;gb|ENS03170.1| hypothetical protein B974_02771 [Brucella abortus 87/28] &gt;gb|ENS05178.1| hypothetical protein C085_03008 [Brucella abortus 877/67] &gt;gb|ENS08259.1| hypothetical protein C980_02751 [Brucella abortus 88/217] &gt;gb|ENS11376.1| hypothetical protein B995_02772 [Brucella abortus F1/06-B21] &gt;gb|ENS15102.1| hypothetical protein B972_02979 [Brucella abortus F10/05-11] &gt;gb|ENS19266.1| hypothetical protein B982_02758 [Brucella abortus F10/06-3] &gt;gb|ENS21364.1| hypothetical protein C081_02227 [Brucella abortus F5/04-7] &gt;gb|ENS25377.1| hypothetical protein C086_02495 [Brucella abortus F6/05-3] &gt;gb|ENS27181.1| hypothetical protein C054_03008 [Brucella abortus F6/05-4] &gt;gb|ENS30693.1| hypothetical protein C087_03150 [Brucella abortus F6/05-9] &gt;gb|ENS33475.1| hypothetical protein C016_02796 [Brucella abortus NI352] &gt;gb|ENS37800.1| hypothetical protein C019_02838 [Brucella abortus NI422] &gt;gb|ENS38886.1| hypothetical protein C021_02840 [Brucella abortus NI495a] &gt;gb|ENS44517.1| hypothetical protein B980_02758 [Brucella abortus R42-08] &gt;gb|ENS52484.1| hypothetical protein C005_02512 [Brucella melitensis BG2 (S27)] &gt;gb|ENS54783.1| hypothetical protein C036_02961 [Brucella melitensis F1/06 B10] &gt;gb|ENS59011.1| hypothetical protein B970_02729 [Brucella melitensis F10/06-16] &gt;gb|ENS62456.1| hypothetical protein C090_02965 [Brucella melitensis F8/01-155] &gt;gb|ENS64034.1| hypothetical protein C003_03031 [Brucella melitensis F9/05] &gt;gb|ENS68223.1| hypothetical protein C034_02238 [Brucella melitensis UK14/06] &gt;gb|ENS73298.1| hypothetical protein C059_02507 [Brucella melitensis UK23/06] &gt;gb|ENS78041.1| hypothetical protein C047_02515 [Brucella melitensis Uk24/06] &gt;gb|ENS80347.1| hypothetical protein B975_02901 [Brucella melitensis UK29/05] &gt;gb|ENS84701.1| hypothetical protein B997_02897 [Brucella melitensis UK3/06] &gt;gb|ENS85340.1| hypothetical protein B984_02809 [Brucella melitensis UK31/99] &gt;gb|ENS90806.1| hypothetical protein C033_02519 [Brucella melitensis UK37/05] &gt;gb|ENS98496.1| hypothetical protein B989_02764 [Brucella sp. 56/94] &gt;gb|ENT05432.1| hypothetical protein C983_02682 [Brucella sp. F23/97] &gt;gb|ENT08014.1| hypothetical protein C001_02842 [Brucella sp. F5/06] &gt;gb|ENT12527.1| hypothetical protein C067_03071 [Brucella sp. F8/99] &gt;gb|ENT12902.1| hypothetical protein B998_03072 [Brucella sp. F96/2] &gt;gb|ENT19598.1| hypothetical protein C051_03095 [Brucella sp. UK40/99] &gt;gb|ENT20072.1| hypothetical protein C065_02214 [Brucella sp. UK1/97] &gt;gb|ENT26786.1| hypothetical protein B985_02237 [Brucella suis 01-5744] &gt;gb|ENT34238.1| hypothetical protein C966_02406 [Brucella suis CNGB 247] &gt;gb|ENT69547.1| hypothetical protein D628_02233 [Brucella melitensis F15/06-7] &gt;gb|ENT70971.1| hypothetical protein D803_02839 [Brucella abortus RB51-AHVLA] &gt;gb|EOQ36744.1| hypothetical protein B981_02747 [Brucella abortus 93/2] &gt;gb|EOQ40852.1| hypothetical protein C069_02796 [Brucella abortus I103_(UK3/01)] &gt;gb|EPF76836.1| hypothetical protein L274_02889 [Brucella abortus B10-0973] &gt;gb|EPF81141.1| hypothetical protein L273_02884 [Brucella abortus B10-0091] &gt;gb|EPF82958.1| hypothetical protein L272_02886 [Brucella abortus B10-0018] &gt;gb|EPF88857.1| hypothetical protein L269_02882 [Brucella abortus 01-0648] &gt;gb|EPF90236.1| hypothetical protein L268_02887 [Brucella abortus 94-1313] &gt;gb|EPF94174.1| hypothetical protein L267_02886 [Brucella abortus 90-1280] &gt;gb|EPF98273.1| hypothetical protein L266_02885 [Brucella abortus 90-0737] &gt;gb|EPG02670.1| hypothetical protein L265_02884 [Brucella abortus 90-0775] &gt;gb|EPG03276.1| hypothetical protein L264_02878 [Brucella abortus 90-0742] &gt;gb|EPG06715.1| hypothetical protein L263_02880 [Brucella abortus 90-0962] &gt;gb|EPG08454.1| hypothetical protein L262_02878 [Brucella abortus 89-0363] &gt;gb|EPG14596.1| hypothetical protein L258_02889 [Brucella abortus 84-0928] &gt;gb|EPG16199.1| hypothetical protein L257_02888 [Brucella abortus 82-3893] &gt;gb|EPG20698.1| hypothetical protein L255_02876 [Brucella abortus 80-1399] &gt;gb|EPG22471.1| hypothetical protein L254_02883 [Brucella abortus 76-1413] &gt;gb|EPG26339.1| hypothetical protein L256_02879 [Brucella abortus 82-2330] &gt;gb|EPG28727.1| hypothetical protein L253_02885 [Brucella abortus 68-3396P] &gt;gb|EPG85278.1| hypothetical protein L270_02883 [Brucella abortus 01-0585] &gt;gb|EPG86368.1| hypothetical protein L271_02885 [Brucella abortus 01-0065] &gt;gb|EPG91403.1| hypothetical protein L261_02885 [Brucella abortus 87-2211] &gt;gb|EPG92619.1| hypothetical protein L259_02884 [Brucella abortus 85-1058] &gt;gb|EPG93708.1| hypothetical protein L260_02884 [Brucella abortus 87-0095] &gt;gb|ERS15901.1| hypothetical protein N509_02895 [Brucella abortus BC95] &gt;gb|ERT72785.1| hypothetical protein P051_01974 [Brucella abortus 03-2770-11] &gt;gb|ERT74668.1| hypothetical protein P053_01459 [Brucella abortus 01-4165] &gt;gb|ERT78663.1| hypothetical protein P052_00886 [Brucella melitensis 02-7258] &gt;gb|ERT81062.1| hypothetical protein P050_02634 [Brucella abortus 90-12178] &gt;gb|ERT93589.1| hypothetical protein P040_00615 [Brucella melitensis 11-1823-3434] &gt;gb|ERT95714.1| hypothetical protein P047_00425 [Brucella abortus 99-9971-159] &gt;gb|ERU06239.1| hypothetical protein P038_00977 [Brucella abortus 99-9971-135] &gt;gb|ERU11088.1| hypothetical protein P039_00450 [Brucella abortus 07-0994-2411] &gt;gb|ERU17532.1| hypothetical protein P045_02664 [Brucella abortus 03-4923-239-D] &gt;gb|ERU24439.1| hypothetical protein P042_02878 [Brucella abortus 89-2646-1238] &gt;gb|ERU30213.1| hypothetical protein P043_00445 [Brucella melitensis 02-5863-1] &gt;gb|KDV08070.1| phenylacetic acid degradation protein [Brucella suis 1330] &gt;gb|KEY02655.1| phenylacetic acid degradation protein [Brucella ceti B1/94] &gt;gb|KFH23680.1| phenylacetic acid degradation protein [Brucella abortus LMN1] &gt;gb|KFH24780.1| phenylacetic acid degradation protein [Brucella abortus LMN2]</Hit_def>
+  <Hit_accession>AIN85663</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>393.275</Hsp_bit-score>
+      <Hsp_score>1009</Hsp_score>
+      <Hsp_evalue>1.12438e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|ENR01753.1|</Hit_id>
+  <Hit_def>hypothetical protein C010_02576 [Brucella ovis 80/125] &gt;gb|ENR06665.1| hypothetical protein C961_02286 [Brucella ovis F8/05B] &gt;gb|ENS93297.1| hypothetical protein B999_02552 [Brucella ovis 63/96] &gt;gb|ENS97762.1| hypothetical protein C009_02425 [Brucella ovis 81/8] &gt;gb|ENT76097.1| hypothetical protein H712_02555 [Brucella ovis IntaBari-2009-88-4] &gt;gb|ENT78340.1| hypothetical protein H720_02346 [Brucella ovis IntaBari-2006-46-348] &gt;gb|ENT81889.1| hypothetical protein H713_02558 [Brucella ovis IntaBari-2010-47-268] &gt;gb|ENT86481.1| hypothetical protein H721_02410 [Brucella ovis IntaBari-2006-46-332] &gt;gb|ENT86973.1| hypothetical protein H714_02556 [Brucella ovis IntaBari-2010-47-871] &gt;gb|ENT93060.1| hypothetical protein H715_02560 [Brucella ovis IntaBari-2002-82-58] &gt;gb|ENT94145.1| hypothetical protein H716_02306 [Brucella ovis IntaBari-2001-319-5096] &gt;gb|ENT98571.1| hypothetical protein H717_02560 [Brucella ovis IntaBari-2001-319-4082] &gt;gb|ENU02038.1| hypothetical protein H718_02388 [Brucella ovis IntaBari-2008-114-542] &gt;gb|ENU04697.1| hypothetical protein H719_02572 [Brucella ovis IntaBari-1993-758] &gt;gb|EPG33421.1| hypothetical protein H711_02912 [Brucella ovis IntaBari-2009-88-3] &gt;emb|SUW67960.1| phenylacetic acid degradation protein PAAI [Brucella ovis]</Hit_def>
+  <Hit_accession>ENR01753</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>391.349</Hsp_bit-score>
+      <Hsp_score>1004</Hsp_score>
+      <Hsp_evalue>6.36705e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQNRKGLQG</Hsp_hseq>
+      <Hsp_midline>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQ+RKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|AHZ82594.1|</Hit_id>
+  <Hit_def>phenylacetic acid degradation protein [Brucella canis] &gt;gb|ENQ55980.1| hypothetical protein C969_02498 [Brucella canis CNGB 1172] &gt;gb|ENQ58826.1| hypothetical protein C979_02311 [Brucella canis UK10/02] &gt;gb|ENR15511.1| hypothetical protein C064_02126 [Brucella suis 63/252] &gt;gb|ENS43676.1| hypothetical protein B976_02874 [Brucella canis 79/122] &gt;gb|ENS49720.1| hypothetical protein C968_02278 [Brucella canis CNGB 513] &gt;gb|ENT27984.1| hypothetical protein C037_02091 [Brucella suis 63/198] &gt;gb|ENX65623.1| hypothetical protein C967_02584 [Brucella canis CNGB 1324] &gt;gb|ENX69701.1| hypothetical protein C982_02954 [Brucella canis F7/05A] &gt;gb|ERT89632.1| hypothetical protein P041_03148 [Brucella sp. 04-5288] &gt;gb|ERU01611.1| hypothetical protein P037_02241 [Brucella canis 96-7258] &gt;gb|ERU06802.1| hypothetical protein P036_02191 [Brucella canis 04-2330-1]</Hit_def>
+  <Hit_accession>AHZ82594</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>390.963</Hsp_bit-score>
+      <Hsp_score>1003</Hsp_score>
+      <Hsp_evalue>9.14564e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIHHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLI HYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|ENS70423.1|</Hit_id>
+  <Hit_def>hypothetical protein C060_02990 [Brucella melitensis UK22/04]</Hit_def>
+  <Hit_accession>ENS70423</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>389.808</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>2.35008e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFCEELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPF EELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|KEY00908.1|</Hit_id>
+  <Hit_def>phenylacetic acid degradation protein [Brucella neotomae 5K33] &gt;emb|SPU67368.1| phenylacetic acid degradation protein PAAI [Brucella neotomae] &gt;emb|SPU70740.1| phenylacetic acid degradation protein PAAI [Brucella neotomae] &gt;emb|SUW61422.1| phenylacetic acid degradation protein PAAI [Brucella neotomae]</Hit_def>
+  <Hit_accession>KEY00908</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>389.808</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>2.74034e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLMVEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MRRNSLMEEQLHAVVSSVQQENTLTPNHNLIRHYSLM EPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|AHB01094.1|</Hit_id>
+  <Hit_def>phenylacetic acid degradation protein PAAI [Brucella ceti TE10759-12] &gt;gb|AHB03486.1| phenylacetic acid degradation protein PAAI [Brucella ceti TE28753-12] &gt;gb|EEX79243.1| thioesterase superfamily protein [Brucella abortus bv. 9 str. C68] &gt;gb|EEZ06913.1| thioesterase superfamily protein [Brucella ceti M490/95/1] &gt;gb|EEZ16719.1| thioesterase superfamily protein [Brucella melitensis bv. 2 str. 63/9] &gt;gb|EFG36009.1| hypothetical protein BAZG_02310 [Brucella sp. NVSL 07-0026] &gt;gb|EFH33007.1| hypothetical protein BAYG_02540 [Brucella abortus bv. 5 str. B3196] &gt;gb|ENQ95052.1| hypothetical protein C048_02518 [Brucella melitensis UK19/04] &gt;gb|ERM87663.1| phenylacetic acid degradation protein [Brucella abortus 82] &gt;dbj|GFP62120.1| thioesterase superfamily protein [Brucella ceti]</Hit_def>
+  <Hit_accession>AHB01094</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>380.563</Hsp_bit-score>
+      <Hsp_score>976</Hsp_score>
+      <Hsp_evalue>1.08068e-132</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gb|ABQ62048.1|</Hit_id>
+  <Hit_def>conserved hypothetical protein [Brucella ovis ATCC 25840]</Hit_def>
+  <Hit_accession>ABQ62048</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>378.637</Hsp_bit-score>
+      <Hsp_score>971</Hsp_score>
+      <Hsp_evalue>5.13373e-132</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQNRKGLQG</Hsp_hseq>
+      <Hsp_midline>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQ+RKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|AEW15605.1|</Hit_id>
+  <Hit_def>thioesterase superfamily protein [Brucella canis HSK A52141] &gt;gb|AIJ69652.1| thioesterase family domain protein [Brucella suis bv. 3 str. 686]</Hit_def>
+  <Hit_accession>AEW15605</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.867</Hsp_bit-score>
+      <Hsp_score>969</Hsp_score>
+      <Hsp_evalue>9.38742e-132</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MEEQLHAVVSSVQQENTLTPNHNLIHHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MEEQLHAVVSSVQQENTLTPNHNLI HYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>emb|SCD24686.1|</Hit_id>
+  <Hit_def>hypothetical protein BR141012304_20212 [Brucella inopinata]</Hit_def>
+  <Hit_accession>SCD24686</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.481</Hsp_bit-score>
+      <Hsp_score>968</Hsp_score>
+      <Hsp_evalue>1.39351e-131</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MEEQLHAVVSSVQQENTLTPNRNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MEEQLHAVVSSVQQENTLTPN NLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|ENR19961.1|</Hit_id>
+  <Hit_def>hypothetical protein C050_02193 [Brucella suis 92/63] &gt;gb|ENR25749.1| hypothetical protein C978_02146 [Brucella suis 94/11] &gt;gb|ENR31615.1| hypothetical protein C977_02137 [Brucella suis F4/06-146] &gt;gb|ENR32932.1| hypothetical protein C006_02287 [Brucella suis F5/03-2] &gt;gb|ENR39274.1| hypothetical protein C063_02282 [Brucella suis F8/06-2] &gt;gb|ENT31619.1| hypothetical protein C039_02299 [Brucella suis 63/261] &gt;gb|ENT37946.1| hypothetical protein C049_02319 [Brucella suis F12/02] &gt;gb|ENT41654.1| hypothetical protein B986_02308 [Brucella suis F5/05-10] &gt;gb|ENT42702.1| hypothetical protein B969_02312 [Brucella suis F5/05-4] &gt;gb|ENT47889.1| hypothetical protein C000_02305 [Brucella suis F7/06-1] &gt;gb|ENT49167.1| hypothetical protein B988_02301 [Brucella suis F7/06-2] &gt;gb|ENT56274.1| hypothetical protein C007_02141 [Brucella suis F8/06-1] &gt;gb|ENT60077.1| hypothetical protein B968_02313 [Brucella suis F8/06-3] &gt;gb|ENT62392.1| hypothetical protein C008_02301 [Brucella suis F9/06-1] &gt;gb|ERT87767.1| hypothetical protein P048_00912 [Brucella suis 04-0115] &gt;gb|ERT88365.1| hypothetical protein P049_00335 [Brucella suis 06-791-1309] &gt;gb|ERU12238.1| hypothetical protein P035_01697 [Brucella suis 06-988-1656] &gt;gb|ERU18259.1| hypothetical protein P046_00791 [Brucella suis 06-997-1672] &gt;gb|ERU28011.1| hypothetical protein P044_00165 [Brucella suis 97-9757]</Hit_def>
+  <Hit_accession>ENR19961</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.096</Hsp_bit-score>
+      <Hsp_score>967</Hsp_score>
+      <Hsp_evalue>1.93678e-131</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVRLIATMTGTMMVVQDRKGLQG</Hsp_qseq>
+      <Hsp_hseq>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEVCLIATMTGTMMVVQDRKGLQG</Hsp_hseq>
+      <Hsp_midline>MEEQLHAVVSSVQQENTLTPNHNLIRHYSLMGEPMSAQRIAEPDFKERVEESFGRQAAMKLIGAELTRCEPGIVEVEMPFREELTQQHGILHAGMISAALDSACGYAALTLMPADAAVLTIEFKVNLLAPGKGERFLFRGEVTKPGRTIMVSDGQAFAVTDTEV LIATMTGTMMVVQDRKGLQG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

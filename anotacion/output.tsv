@@ -1,0 +1,27 @@
+id	funcion_prokka	largo	pfam_acc	pfam_name	pfam_type	pfam_start	pfam_end	location
+PROKKA_00001	hypothetical protein	50						Cytoplasmic
+PROKKA_00002	Glutamate decarboxylase alpha	319	PF00282.24	Pyridoxal_deC	Domain	8	316	Cytoplasmic
+PROKKA_00003	Glutamate decarboxylase beta	136						Cytoplasmic
+PROKKA_00004	Glutamate/gamma-aminobutyrate antiporter	426	PF13520.11	AA_permease_2	Family	67	425	Cytoplasmic Membrane
+PROKKA_00005	Glutaminase 1	317	PF04960.20	Glutaminase	Domain	1	286	Cytoplasmic
+PROKKA_00006	Probable acid stress chaperone HdeA precursor	114	PF06411.16	HdeA	Domain	2	91	Periplasmic
+PROKKA_00007	hypothetical protein	54						Cytoplasmic Membrane
+PROKKA_00008	Uncharacterized membrane protein YjcC	530	PF12792.12	CSS-motif	Domain	1	206	Cytoplasmic Membrane
+PROKKA_00009	Glycine cleavage system transcriptional activator	295	PF00126.32	HTH_1	Domain	1	59	Cytoplasmic
+PROKKA_00010	Alginate biosynthesis protein AlgA	471	PF00483.28	NTP_transferase	Family	2	238	Cytoplasmic
+PROKKA_00011	Phosphoglucosamine mutase	477	PF02878.21	PGM_PMM_I	Domain	2	133	Cytoplasmic
+PROKKA_00012	hypothetical protein	368	PF03576.19	Peptidase_S58	Family	2	300	Periplasmic
+PROKKA_00013	H(+)/Cl(-) exchange transporter ClcA	451	PF00654.25	Voltage_CLC	Family	2	346	Cytoplasmic Membrane
+PROKKA_00014	Inosine-5'-monophosphate dehydrogenase	497	PF00478.30	IMPDH	Domain	1	345	Cytoplasmic
+PROKKA_00015	SoxAX cytochrome complex subunit A precursor	357	PF21342.2	SoxA-TsdA_cyt-c	Domain	13	87	Cytoplasmic Membrane
+PROKKA_00016	Hydrogen peroxide-inducible genes activator	317	PF00126.32	HTH_1	Domain	2	59	Cytoplasmic
+PROKKA_00017	Catalase	499	PF00199.24	Catalase	Domain	1	382	Periplasmic
+PROKKA_00018	hypothetical protein	57						Cytoplasmic Membrane
+PROKKA_00019	Disulfide bond formation protein B	208	PF02600.21	DsbB	Family	5	87	Cytoplasmic Membrane
+PROKKA_00020	Ribosomal RNA small subunit methyltransferase B	429	PF22458.1	RsmF-B_ferredox	Domain	2	67	Cytoplasmic
+PROKKA_00021	hypothetical protein	191	PF03061.27	4HBT	Domain	1	77	Cytoplasmic
+PROKKA_00022	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	210	PF01048.25	PNP_UDP_1	Domain	48	207	Cytoplasmic
+PROKKA_00023	GMP synthase [glutamine-hydrolyzing]	520	PF00117.33	GATase	Domain	1	188	Cytoplasmic
+PROKKA_00024	Prophage CP4-57 integrase	418	PF13356.11	Arm-DNA-bind_3	Domain	1	82	Cytoplasmic
+PROKKA_00025	hypothetical protein	76	PF05930.17	Phage_AlpA	Family	7	51	Cytoplasmic
+PROKKA_00026	hypothetical protein	352	PF10134.14	RPA	Family	1	228	Cytoplasmic

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_130743</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00006 Probable acid stress chaperone HdeA precursor</BlastOutput_query-def>
+  <BlastOutput_query-len>114</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_130743</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00006 Probable acid stress chaperone HdeA precursor</Iteration_query-def>
+  <Iteration_query-len>114</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_006191791.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [Brucella] &gt;sp|Q8FWV4.1| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella suis 1330] &gt;gb|AAN33539.1| hdeA protein [Brucella suis 1330] &gt;gb|AEM19818.1| acid-resistance protein [Brucella suis 1330] &gt;gb|AEU07488.1| acid-resistance protein [Brucella suis VBI22] &gt;gb|AHN48087.1| hdeA [Brucella suis bv. 1 str. S2] &gt;gb|AIN85650.1| chaperone hdeA [Brucella suis]</Hit_def>
+  <Hit_accession>WP_006191791</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.868</Hsp_bit-score>
+      <Hsp_score>577</Hsp_score>
+      <Hsp_evalue>2.15271e-74</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_002966248.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [Brucella] &gt;sp|A9ME89.1| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella canis ATCC 23365] &gt;sp|A9WY36.1| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella suis ATCC 23445] &gt;sp|Q2YK18.1| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella abortus 2308] &gt;sp|Q577F1.1| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella abortus bv. 1 str. 9-941] &gt;sp|Q8YBJ4.2| RecName: Full=Probable acid stress chaperone HdeA; Flags: Precursor [Brucella melitensis bv. 1 str. 16M] &gt;gb|ERM87541.1| chaperone hdeA [Brucella abortus 82] &gt;gb|EXU84974.1| chaperone hdeA [Brucella melitensis 548] &gt;gb|KFH23691.1| chaperone hdeA [Brucella abortus LMN1] &gt;gb|KFH24791.1| chaperone hdeA [Brucella abortus LMN2] &gt;gb|AAR98497.1| HdeA precursor [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_002966248</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>224.942</Hsp_bit-score>
+      <Hsp_score>572</Hsp_score>
+      <Hsp_evalue>1.39148e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_006119370.1|</Hit_id>
+  <Hit_def>acid-activated periplasmic chaperone HdeA [Brucella abortus] &gt;gb|ENS08275.1| chaperone-like protein hdeA [Brucella abortus 88/217]</Hit_def>
+  <Hit_accession>WP_006119370</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.787</Hsp_bit-score>
+      <Hsp_score>569</Hsp_score>
+      <Hsp_evalue>3.46084e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKSLFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIK+LFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_259595064.1|</Hit_id>
+  <Hit_def>acid-activated periplasmic chaperone HdeA [Brucella sp. 2716] &gt;gb|UWF60838.1| acid-activated periplasmic chaperone HdeA [Brucella sp. 2716]</Hit_def>
+  <Hit_accession>WP_259595064</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.402</Hsp_bit-score>
+      <Hsp_score>568</Hsp_score>
+      <Hsp_evalue>5.19491e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGEEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKG+EEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_126982372.1|</Hit_id>
+  <Hit_def>acid-activated periplasmic chaperone HdeA [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_126982372</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.402</Hsp_bit-score>
+      <Hsp_score>568</Hsp_score>
+      <Hsp_evalue>5.60984e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKTLFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIK LFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_006210305.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [Brucella] &gt;gb|ALF31527.1| chaperone hdeA [Brucella abortus 104M] &gt;gb|ENP27506.1| chaperone-like protein hdeA [Brucella abortus 63/59] &gt;gb|ENP56533.1| chaperone-like protein hdeA [Brucella abortus 88/19]</Hit_def>
+  <Hit_accession>WP_006210305</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.402</Hsp_bit-score>
+      <Hsp_score>568</Hsp_score>
+      <Hsp_evalue>6.3997e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKVSFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPK SFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_006135472.1|</Hit_id>
+  <Hit_def>acid-activated periplasmic chaperone HdeA [Brucella melitensis] &gt;gb|ENS52500.1| chaperone-like protein hdeA [Brucella melitensis BG2 (S27)]</Hit_def>
+  <Hit_accession>WP_006135472</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.402</Hsp_bit-score>
+      <Hsp_score>568</Hsp_score>
+      <Hsp_evalue>6.3997e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAVVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALA V ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_070998097.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [Brucella] &gt;gb|APX68342.1| chaperone hdeA [Brucella sp. 09RB8471] &gt;gb|MRN77889.1| acid-activated periplasmic chaperone HdeA [Brucella sp. 10RB9210] &gt;emb|SCD24670.1| acid-resistance protein [Brucella inopinata]</Hit_def>
+  <Hit_accession>WP_070998097</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.016</Hsp_bit-score>
+      <Hsp_score>567</Hsp_score>
+      <Hsp_evalue>9.7123e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDLAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKQGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTD+AKKKVSELTCEDFNGLEESFKPTVVGWVVGFNK+GKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_259599087.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [unclassified Brucella] &gt;gb|UWF68144.1| acid-activated periplasmic chaperone HdeA [Brucella sp. 1315] &gt;gb|UWF71261.1| acid-activated periplasmic chaperone HdeA [Brucella sp. 2594]</Hit_def>
+  <Hit_accession>WP_259599087</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>222.246</Hsp_bit-score>
+      <Hsp_score>565</Hsp_score>
+      <Hsp_evalue>1.79596e-72</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGEEDDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKG+E+DAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_069714761.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acid-activated periplasmic chaperone HdeA [unclassified Brucella] &gt;gb|OEI83333.1| chaperone hdeA [Brucella sp. B13-0095] &gt;gb|QMV28292.1| acid-activated periplasmic chaperone HdeA [Brucella sp. BO3]</Hit_def>
+  <Hit_accession>WP_069714761</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>221.476</Hsp_bit-score>
+      <Hsp_score>563</Hsp_score>
+      <Hsp_evalue>3.00859e-72</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>110</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MIKALFNKNTALAAVTILALSGGAMAESAKTHKTDMAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKKGKEEDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_qseq>
+      <Hsp_hseq>MIKALFNKNTALAAVAILALSGGAMAESAKTHKTDLAKKKVSELTCEDFNGLEESFKPTVVGWVVGFNKQGKEDDAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_hseq>
+      <Hsp_midline>MIKALFNKNTALAAV ILALSGGAMAESAKTHKTD+AKKKVSELTCEDFNGLEESFKPTVVGWVVGFNK+GKE+DAVIDVDGIETVTPAIIEACKQEPKASFWKKAEAELKKVF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

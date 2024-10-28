@@ -1,0 +1,512 @@
+Tue 15 Oct 13:12:39 2024 [23057@net] opening rw... by justo(1000)
+Tue 15 Oct 13:12:39 2024 [23057@net] ...opened
+Tue 15 Oct 13:13:47 2024 [23057@net] auto assemble
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAD50TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAD50TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAD50TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAD50TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAD90TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAD90TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAD90TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAD90TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAF84TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAF84TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAF84TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAF84TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAG60TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAG60TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAG60TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAG60TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAJ54TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAJ54TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAN41TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAN41TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAN41TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAN41TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAR93TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAR93TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAR93TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAR93TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAS18TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAS18TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAS18TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAS18TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAT05TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAT05TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAT05TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAT05TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAV11TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAV11TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAW94TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAW94TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 12 (last) to 6 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAW94TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAW94TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRAY14TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRAY14TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBC20TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBC20TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBC20TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBC20TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBC63TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBC63TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBC63TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBC63TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI05TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI05TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI05TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI05TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI11TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI11TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI11TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI11TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI24TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI24TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBI24TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBI24TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBL08TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBL08TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBL08TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBL08TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBQ74TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBQ74TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBQ74TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBQ74TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBR22TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBR22TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBT84TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBT84TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBT84TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBT84TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBX52TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBX52TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBX52TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBX52TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBY36TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBY36TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBY36TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBY36TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBY61TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBY61TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRBY61TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRBY61TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCA26TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCA26TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCA26TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCA26TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCC91TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCC91TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCC91TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCC91TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCF37TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCF37TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCF37TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCF37TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCH54TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCH54TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCH54TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCH54TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCI22TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCI22TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCI22TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCI22TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCO71TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCO71TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 20 (last) to 3 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCO71TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCO71TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCR55TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCR55TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCS49TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCS49TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRCS49TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRCS49TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 20 (last) to 10 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDB44TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDB44TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDB44TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDB44TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDC23TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDC23TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDC23TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDC23TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDD35TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDD35TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDD35TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDD35TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDF74TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDF74TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDJ06TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDJ06TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 19 (last) to 13 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDJ06TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDJ06TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 18 (last) to 4 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDK52TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDK52TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDK52TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDK52TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDL96TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDL96TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDL96TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDL96TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP11TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP11TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP11TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP11TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP46TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP46TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 17 (last) to 17 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP46TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP46TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP47TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP47TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP47TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP47TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 16 (last) to 14 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP63TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP63TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 15 (last) to 9 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDP63TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDP63TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR18TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR18TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR18TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR18TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR43TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR43TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR43TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR43TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR82TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR82TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDR82TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDR82TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDT23TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDT23TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDT23TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDT23TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDT27TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDT27TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 14 (last) to 3 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDU19TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDU19TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDU19TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDU19TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDW18TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDW18TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDW18TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDW18TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDW40TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDW40TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRDW40TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRDW40TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRED77TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRED77TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRED77TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRED77TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRED82TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRED82TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBRED82TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBRED82TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREF64TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREF64TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREF64TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREF64TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREH01TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREH01TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREH01TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREH01TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREH88TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREH88TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREH88TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREH88TR.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] > Delete contig. Renumber 15 (last) to 6 (deleting)
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREI96TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREI96TF.scf written to error file
+Tue 15 Oct 13:13:47 2024 [23057@net] File GBREI96TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:47 2024 [23057@net] Failed file GBREI96TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREM26TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREM26TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREM26TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREM26TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 14 (last) to 3 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREN11TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREN11TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREN11TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREN11TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREP84TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREP84TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREP84TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREP84TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRES88TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRES88TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRET30TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRET30TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRET30TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRET30TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREU31TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREU31TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREV17TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREV17TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 14 (last) to 13 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREV17TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREV17TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREX14TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREX14TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREZ92TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREZ92TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBREZ93TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBREZ93TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRFD07TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRFD07TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRFD27TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRFD27TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRFD44TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRFD44TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 13 (last) to 3 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRFL06TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRFL06TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRGH69TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRGH69TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBRGH69TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBRGH69TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAA24TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAA24TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 12 (last) to 9 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAA24TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAA24TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAE46TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAE46TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 11 (last) to 2 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAE46TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAE46TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAE59TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAE59TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 10 (last) to 1 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAH14TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAH14TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAH23TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAH23TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAH23TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAH23TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAH58TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAH58TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAH93TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAH93TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAI30TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAI30TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAJ45TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAJ45TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 9 (last) to 4 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAJ45TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAJ45TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAJ58TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAJ58TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAJ58TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAJ58TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAJ69TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAJ69TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAL24TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAL24TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAO39TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAO39TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ59TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ59TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ59TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ59TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ61TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ61TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ61TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ61TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ80TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ80TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ96TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ96TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAQ96TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAQ96TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAR23TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAR23TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAR64TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAR64TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAR64TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAR64TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAT52TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAT52TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAU21TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAU21TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAU21TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAU21TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAV48TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAV48TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAW83TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAW83TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAW83TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAW83TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAX37TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAX37TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAZ20TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAZ20TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUAZ20TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUAZ20TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBA83TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBA83TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBA83TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBA83TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 10 (last) to 2 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBC12TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBC12TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBC30TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBC30TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBC30TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBC30TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE17TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE17TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] > Delete contig. Renumber 9 (last) to 3 (deleting)
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE17TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE17TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE21TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE21TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE21TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE21TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE75TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE75TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBE75TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBE75TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBG79TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBG79TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBG79TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBG79TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBH47TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBH47TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBH75TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBH75TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBH75TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBH75TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBI82TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBI82TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBI82TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBI82TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBJ68TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBJ68TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBM31TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBM31TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBM69TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBM69TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBM92TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBM92TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBQ12TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBQ12TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBS96TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBS96TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBT45TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBT45TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBT46TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBT46TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBT91TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBT91TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBV17TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBV17TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBV17TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBV17TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBW06TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBW06TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBW07TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBW07TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBY34TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBY34TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBZ58TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBZ58TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBZ59TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBZ59TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUBZ59TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUBZ59TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCA43TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCA43TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCA43TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCA43TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCA45TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCA45TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCA45TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCA45TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCC53TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCC53TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCC53TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCC53TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCD49TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCD49TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCD68TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCD68TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF24TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF24TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF37TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF37TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF37TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF37TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF52TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF52TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF52TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF52TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCF74TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCF74TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCG12TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCG12TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCG12TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCG12TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCH47TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCH47TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCJ89TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCJ89TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCJ89TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCJ89TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCJ90TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCJ90TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCL83TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCL83TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCL83TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCL83TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCN09TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCN09TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCO03TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCO03TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCO65TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCO65TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCQ58TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCQ58TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCQ58TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCQ58TR.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCR45TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCR45TF.scf written to error file
+Tue 15 Oct 13:13:48 2024 [23057@net] File GBUCR45TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:48 2024 [23057@net] Failed file GBUCR45TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUCS93TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUCS93TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] > Delete contig. Renumber 10 (last) to 1 (deleting)
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUCT08TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUCT08TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUCT43TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUCT43TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUCV68TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUCV68TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUCY79TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUCY79TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA58TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA58TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA58TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA58TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA65TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA65TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA65TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA65TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA71TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA71TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDA71TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDA71TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDB25TF.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDB25TF.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] File GBUDB25TR.scf is not in plain or Experiment File format
+Tue 15 Oct 13:13:49 2024 [23057@net] Failed file GBUDB25TR.scf written to error file
+Tue 15 Oct 13:13:49 2024 [23057@net] > Register id=1 cnum=1 func=0x749e35669950 data=0x643f956edb80 :Contig selector
+Tue 15 Oct 13:13:56 2024 [23057@net] > Deregister id=1 cnum=1 func=0x749e35669950 data=0x643f956edb80 :Contig selector
+Tue 15 Oct 13:14:08 2024 [23057@net] close database
+Tue 15 Oct 13:14:08 2024 [23057@net] closing...
+Tue 15 Oct 13:14:08 2024 [23057@net] ...closed

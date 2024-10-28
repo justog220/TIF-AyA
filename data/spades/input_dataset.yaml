@@ -1,0 +1,6 @@
+- "single reads":
+  - "/home/justo/Documentos/TPIAyA/data/Set3.fq"
+  "type": "single"
+- "single reads":
+  - "/home/justo/Documentos/TPIAyA/data/consenso.fasta"
+  "type": "trusted-contigs"

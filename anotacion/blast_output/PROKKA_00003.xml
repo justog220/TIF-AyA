@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_845591</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00003 Glutamate decarboxylase beta</BlastOutput_query-def>
+  <BlastOutput_query-len>136</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_845591</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00003 Glutamate decarboxylase beta</Iteration_query-def>
+  <Iteration_query-len>136</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|AEW15624.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase beta [Brucella canis HSK A52141] &gt;gb|ENQ55962.1| hypothetical protein C969_02480 [Brucella canis CNGB 1172] &gt;gb|ENQ58808.1| hypothetical protein C979_02293 [Brucella canis UK10/02] &gt;gb|ENR15493.1| hypothetical protein C064_02108 [Brucella suis 63/252] &gt;gb|ENR19436.1| hypothetical protein C062_02389 [Brucella suis 92/29] &gt;gb|ENR26830.1| hypothetical protein C965_02394 [Brucella suis CNGB 786] &gt;gb|ENS43658.1| hypothetical protein B976_02856 [Brucella canis 79/122] &gt;gb|ENS49702.1| hypothetical protein C968_02260 [Brucella canis CNGB 513] &gt;gb|ENT26768.1| hypothetical protein B985_02219 [Brucella suis 01-5744] &gt;gb|ENT34220.1| hypothetical protein C966_02388 [Brucella suis CNGB 247] &gt;gb|ENX65605.1| hypothetical protein C967_02566 [Brucella canis CNGB 1324] &gt;gb|ENX69683.1| hypothetical protein C982_02936 [Brucella canis F7/05A] &gt;gb|ERT95193.1| hypothetical protein P041_02855 [Brucella sp. 04-5288] &gt;gb|ERU01593.1| hypothetical protein P037_02223 [Brucella canis 96-7258] &gt;gb|ERU06784.1| hypothetical protein P036_02173 [Brucella canis 04-2330-1] &gt;gb|KDV08083.1| hypothetical protein BF16_00795 [Brucella suis 1330] &gt;emb|SPU71454.1| glutamate decarboxylase [Brucella suis]</Hit_def>
+  <Hit_accession>AEW15624</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.952</Hsp_bit-score>
+      <Hsp_score>720</Hsp_score>
+      <Hsp_evalue>2.07036e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|KFJ58211.1|</Hit_id>
+  <Hit_def>hypothetical protein DK64_490 [Brucella neotomae 5K33] &gt;emb|SUW61404.1| glutamate decarboxylase beta [Brucella neotomae]</Hit_def>
+  <Hit_accession>KFJ58211</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.722</Hsp_bit-score>
+      <Hsp_score>722</Hsp_score>
+      <Hsp_evalue>1.02477e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>emb|SPU67386.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase beta [Brucella neotomae]</Hit_def>
+  <Hit_accession>SPU67386</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>280.796</Hsp_bit-score>
+      <Hsp_score>717</Hsp_score>
+      <Hsp_evalue>4.30965e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICVGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFIC GEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|ENT27966.1|</Hit_id>
+  <Hit_def>hypothetical protein C037_02073 [Brucella suis 63/198] &gt;gb|KFJ27900.1| hypothetical protein DO77_396 [Brucella suis]</Hit_def>
+  <Hit_accession>ENT27966</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>4.33095e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVLAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQV AFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|AIJ93827.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase alpha [Brucella melitensis bv. 2 str. 63/9]</Hit_def>
+  <Hit_accession>AIJ93827</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.337</Hsp_bit-score>
+      <Hsp_score>721</Hsp_score>
+      <Hsp_evalue>1.43263e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>139</Hsp_hit-from>
+      <Hsp_hit-to>274</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|ADZ67577.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase [Brucella melitensis M28] &gt;gb|ADZ88443.1| glutamate decarboxylase [Brucella melitensis M5-90] &gt;gb|AEQ10030.1| glutamate decarboxylase [Brucella melitensis NI] &gt;gb|ALM35806.1| Glutamate decarboxylase [Brucella melitensis] &gt;gb|ENQ61774.1| glutamate decarboxylase alpha [Brucella melitensis 64/150] &gt;gb|ENQ65251.1| glutamate decarboxylase alpha [Brucella melitensis 66/59] &gt;gb|ENQ68494.1| glutamate decarboxylase alpha [Brucella melitensis CNGB 1076] &gt;gb|ENQ71526.1| glutamate decarboxylase alpha [Brucella melitensis CNGB 1120] &gt;gb|ENQ74401.1| glutamate decarboxylase alpha [Brucella melitensis CNGB 290] &gt;gb|ENQ77376.1| glutamate decarboxylase alpha [Brucella melitensis F10/05-2] &gt;gb|ENQ80981.1| glutamate decarboxylase alpha [Brucella melitensis F2/06-6] &gt;gb|ENQ83798.1| glutamate decarboxylase alpha [Brucella melitensis F3/02] &gt;gb|ENQ87206.1| glutamate decarboxylase alpha [Brucella melitensis F6/05-6] &gt;gb|ENQ87693.1| glutamate decarboxylase alpha [Brucella melitensis F5/07-239A] &gt;gb|ENQ93563.1| glutamate decarboxylase alpha [Brucella melitensis R3/07-2] &gt;gb|ENQ95072.1| glutamate decarboxylase alpha [Brucella melitensis UK19/04] &gt;gb|ENR00162.1| glutamate decarboxylase alpha [Brucella melitensis UK22/06] &gt;gb|ENS52504.1| glutamate decarboxylase alpha [Brucella melitensis BG2 (S27)] &gt;gb|ENS54803.1| glutamate decarboxylase alpha [Brucella melitensis F1/06 B10] &gt;gb|ENS59031.1| glutamate decarboxylase alpha [Brucella melitensis F10/06-16] &gt;gb|ENS62476.1| glutamate decarboxylase alpha [Brucella melitensis F8/01-155] &gt;gb|ENS64054.1| glutamate decarboxylase alpha [Brucella melitensis F9/05] &gt;gb|ENS68243.1| glutamate decarboxylase alpha [Brucella melitensis UK14/06] &gt;gb|ENS70443.1| glutamate decarboxylase alpha [Brucella melitensis UK22/04] &gt;gb|ENS73318.1| glutamate decarboxylase alpha [Brucella melitensis UK23/06] &gt;gb|ENS78061.1| glutamate decarboxylase alpha [Brucella melitensis Uk24/06] &gt;gb|ENS80367.1| glutamate decarboxylase alpha [Brucella melitensis UK29/05] &gt;gb|ENS84721.1| glutamate decarboxylase alpha [Brucella melitensis UK3/06] &gt;gb|ENS85360.1| glutamate decarboxylase alpha [Brucella melitensis UK31/99] &gt;gb|ENS90826.1| glutamate decarboxylase alpha [Brucella melitensis UK37/05] &gt;gb|ENT65905.1| glutamate decarboxylase alpha [Brucella melitensis B115] &gt;gb|ENT69567.1| glutamate decarboxylase alpha [Brucella melitensis F15/06-7] &gt;gb|EPZ76758.1| glutamate decarboxylase [Brucella melitensis ADMAS-G1] &gt;gb|ERT78683.1| glutamate decarboxylase alpha [Brucella melitensis 02-7258] &gt;gb|ERT93610.1| glutamate decarboxylase alpha [Brucella melitensis 11-1823-3434] &gt;gb|ERU30233.1| glutamate decarboxylase alpha [Brucella melitensis 02-5863-1]</Hit_def>
+  <Hit_accession>ADZ67577</Hit_accession>
+  <Hit_len>286</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.952</Hsp_bit-score>
+      <Hsp_score>720</Hsp_score>
+      <Hsp_evalue>2.92371e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>151</Hsp_hit-from>
+      <Hsp_hit-to>286</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gb|AAL54152.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase beta [Brucella melitensis bv. 1 str. 16M] &gt;gb|AIJ56472.1| glutamate decarboxylase [Brucella abortus] &gt;gb|AQQ57948.1| glutamate decarboxylase [Brucella melitensis] &gt;gb|EEX84303.1| conserved hypothetical protein [Brucella abortus bv. 3 str. Tulya] &gt;gb|EEZ10118.1| conserved hypothetical protein [Brucella melitensis bv. 3 str. Ether] &gt;gb|EEZ13039.1| conserved hypothetical protein [Brucella melitensis bv. 1 str. Rev.1] &gt;gb|EEZ16737.1| glutamate decarboxylase GadA [Brucella melitensis bv. 2 str. 63/9] &gt;gb|ENP33764.1| glutamate decarboxylase alpha [Brucella abortus 65/110] &gt;gb|ENP40783.1| glutamate decarboxylase alpha [Brucella abortus 78/36] &gt;gb|ENQ02553.1| glutamate decarboxylase alpha [Brucella abortus F6/05-2] &gt;gb|ENR65126.1| glutamate decarboxylase alpha [Brucella abortus 63/294] &gt;gb|ENR83680.1| glutamate decarboxylase alpha [Brucella abortus 78/14] &gt;gb|ENR88198.1| glutamate decarboxylase alpha [Brucella abortus 78/32] &gt;gb|ENR89536.1| glutamate decarboxylase alpha [Brucella abortus 80/101] &gt;gb|ENR93785.1| glutamate decarboxylase alpha [Brucella abortus 80/28] &gt;gb|ENS03189.1| glutamate decarboxylase alpha [Brucella abortus 87/28] &gt;gb|ENS08278.1| glutamate decarboxylase alpha [Brucella abortus 88/217] &gt;gb|ENS11394.1| glutamate decarboxylase alpha [Brucella abortus F1/06-B21] &gt;gb|ENS25395.1| glutamate decarboxylase alpha [Brucella abortus F6/05-3] &gt;gb|ENS27200.1| glutamate decarboxylase alpha [Brucella abortus F6/05-4] &gt;gb|ENS30712.1| glutamate decarboxylase alpha [Brucella abortus F6/05-9] &gt;gb|ERU11107.1| glutamate decarboxylase alpha [Brucella abortus 07-0994-2411] &gt;gb|EXU84976.1| glutamate decarboxylase [Brucella melitensis 548]</Hit_def>
+  <Hit_accession>AAL54152</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.182</Hsp_bit-score>
+      <Hsp_score>718</Hsp_score>
+      <Hsp_evalue>9.50277e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>169</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|ACD74292.1|</Hit_id>
+  <Hit_def>Pyridoxal-dependent decarboxylase [Brucella abortus S19]</Hit_def>
+  <Hit_accession>ACD74292</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>279.256</Hsp_bit-score>
+      <Hsp_score>713</Hsp_score>
+      <Hsp_evalue>2.81083e-92</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>139</Hsp_hit-from>
+      <Hsp_hit-to>274</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRCGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCR GFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gb|AEW19544.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase [Brucella abortus A13334] &gt;gb|ERM04889.1| glutamate decarboxylase [Brucella abortus S99]</Hit_def>
+  <Hit_accession>AEW19544</Hit_accession>
+  <Hit_len>286</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>6.32222e-92</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>151</Hsp_hit-from>
+      <Hsp_hit-to>286</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRCGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCR GFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|ABY39350.1|</Hit_id>
+  <Hit_def>glutamate decarboxylase [Brucella suis ATCC 23445] &gt;gb|AIJ72926.1| glutamate decarboxylase [Brucella pinnipedialis] &gt;gb|KFJ31482.1| glutamate decarboxylase [Brucella suis]</Hit_def>
+  <Hit_accession>ABY39350</Hit_accession>
+  <Hit_len>454</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>284.263</Hsp_bit-score>
+      <Hsp_score>726</Hsp_score>
+      <Hsp_evalue>6.36343e-92</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>319</Hsp_hit-from>
+      <Hsp_hit-to>454</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_qseq>
+      <Hsp_hseq>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_hseq>
+      <Hsp_midline>MRLGREGYTKVQQAAYRVAQYIAREIEPLGPYEFICAGEEKGGIPAVCFRIREGEDPGYSLYDLSERLRLTGWQVPAFALSGKASDITVMRVMCRRGFEMDLAALFIRDFKAGIEFFKSHPSPKITPSMGTGFHHT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

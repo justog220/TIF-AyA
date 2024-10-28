@@ -1,0 +1,153 @@
+>Feature NODE_1
+41	193	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00001
+			product	hypothetical protein
+1221	2180	CDS
+			EC_number	4.1.1.15
+			gene	gadA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P69908
+			locus_tag	PROKKA_00002
+			product	Glutamate decarboxylase alpha
+2205	2615	CDS
+			EC_number	4.1.1.15
+			gene	gadB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P69910
+			locus_tag	PROKKA_00003
+			product	Glutamate decarboxylase beta
+2942	4222	CDS
+			gene	gadC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O30417
+			locus_tag	PROKKA_00004
+			product	Glutamate/gamma-aminobutyrate antiporter
+4258	5211	CDS
+			EC_number	3.5.1.2
+			gene	glsA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77454
+			locus_tag	PROKKA_00005
+			product	Glutaminase 1
+5359	5703	CDS
+			gene	hdeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2YK18
+			locus_tag	PROKKA_00006
+			product	Probable acid stress chaperone HdeA precursor
+6303	6467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00007
+			product	hypothetical protein
+8136	6544	CDS
+			gene	yjcC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32701
+			locus_tag	PROKKA_00008
+			product	Uncharacterized membrane protein YjcC
+8926	9813	CDS
+			gene	gcvA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9F6
+			locus_tag	PROKKA_00009
+			product	Glycine cleavage system transcriptional activator
+11349	9934	CDS
+			gene	algA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07874
+			locus_tag	PROKKA_00010
+			product	Alginate biosynthesis protein AlgA
+12779	11346	CDS
+			EC_number	5.4.2.10
+			gene	glmM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34824
+			locus_tag	PROKKA_00011
+			product	Phosphoglucosamine mutase
+14005	12899	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00012
+			product	hypothetical protein
+15384	14029	CDS
+			gene	clcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZRP8
+			locus_tag	PROKKA_00013
+			product	H(+)/Cl(-) exchange transporter ClcA
+15579	17072	CDS
+			EC_number	1.1.1.205
+			gene	guaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21879
+			locus_tag	PROKKA_00014
+			product	Inosine-5'-monophosphate dehydrogenase
+18350	17277	CDS
+			EC_number	1.8.2.-
+			gene	soxA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9K4M4
+			locus_tag	PROKKA_00015
+			product	SoxAX cytochrome complex subunit A precursor
+19372	18419	CDS
+			gene	oxyR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACQ4
+			locus_tag	PROKKA_00016
+			product	Hydrogen peroxide-inducible genes activator
+19542	21041	CDS
+			EC_number	1.11.1.6
+			gene	katA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A327
+			locus_tag	PROKKA_00017
+			product	Catalase
+21172	21345	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00018
+			product	hypothetical protein
+21374	22000	CDS
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00286
+			locus_tag	PROKKA_00019
+			product	Disulfide bond formation protein B
+22177	23466	CDS
+			EC_number	2.1.1.176
+			gene	rsmB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P36929
+			locus_tag	PROKKA_00020
+			product	Ribosomal RNA small subunit methyltransferase B
+23637	24212	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00021
+			product	hypothetical protein
+24209	24841	CDS
+			EC_number	3.2.2.9
+			gene	mtnN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A5B0
+			locus_tag	PROKKA_00022
+			product	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+24950	26512	CDS
+			EC_number	6.3.5.2
+			gene	guaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04079
+			locus_tag	PROKKA_00023
+			product	GMP synthase [glutamine-hydrolyzing]
+26773	28029	CDS
+			gene	intA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32053
+			locus_tag	PROKKA_00024
+			product	Prophage CP4-57 integrase
+28314	28544	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00025
+			product	hypothetical protein
+28625	29683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00026
+			product	hypothetical protein

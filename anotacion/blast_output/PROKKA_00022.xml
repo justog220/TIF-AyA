@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_2803663</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00022 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase</BlastOutput_query-def>
+  <BlastOutput_query-len>210</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_2803663</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00022 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase</Iteration_query-def>
+  <Iteration_query-len>210</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_004687422.1|</Hit_id>
+  <Hit_def>MULTISPECIES: 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella] &gt;gb|AHB03485.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella ceti TE28753-12] &gt;gb|AAN33558.1| MTA/SAH nucleosidase family protein [Brucella suis 1330] &gt;gb|ABQ62440.1| MTA/SAH nucleosidase family protein [Brucella ovis ATCC 25840] &gt;gb|ABX63547.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella canis ATCC 23365] &gt;gb|ABY39369.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase, putative [Brucella suis ATCC 23445]</Hit_def>
+  <Hit_accession>WP_004687422</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.935</Hsp_bit-score>
+      <Hsp_score>1086</Hsp_score>
+      <Hsp_evalue>8.55644e-149</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_094283796.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella ceti]</Hit_def>
+  <Hit_accession>WP_094283796</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>2.53548e-148</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVANGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVA+GLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_004681696.1|</Hit_id>
+  <Hit_def>MULTISPECIES: 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella] &gt;gb|AOG51154.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|ARY26057.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|ARY29220.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|ARY38697.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|ARY45032.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_004681696</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.009</Hsp_bit-score>
+      <Hsp_score>1081</Hsp_score>
+      <Hsp_evalue>4.73896e-148</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQHLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQ+LHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_023081068.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella sp. 04-5288] &gt;gb|ERT89631.1| hypothetical protein P041_03147 [Brucella sp. 04-5288]</Hit_def>
+  <Hit_accession>WP_023081068</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.009</Hsp_bit-score>
+      <Hsp_score>1081</Hsp_score>
+      <Hsp_evalue>5.00621e-148</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSVGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGS GSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|AIJ66688.1|</Hit_id>
+  <Hit_def>phosphorylase superfamily protein [Brucella suis] &gt;gb|AIJ69820.1| phosphorylase superfamily protein [Brucella suis bv. 3 str. 686] &gt;gb|AIJ73114.1| phosphorylase superfamily protein [Brucella pinnipedialis] &gt;gb|AIJ83776.1| phosphorylase superfamily protein [Brucella canis] &gt;gb|KFJ26726.1| phosphorylase superfamily protein [Brucella suis 1330] &gt;gb|KFJ58116.1| phosphorylase superfamily protein [Brucella neotomae 5K33]</Hit_def>
+  <Hit_accession>AIJ66688</Hit_accession>
+  <Hit_len>209</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>420.624</Hsp_bit-score>
+      <Hsp_score>1080</Hsp_score>
+      <Hsp_evalue>7.24733e-148</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>209</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>209</Hsp_align-len>
+      <Hsp_qseq>MKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_105985123.1|</Hit_id>
+  <Hit_def>MULTISPECIES: 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [unclassified Brucella]</Hit_def>
+  <Hit_accession>WP_105985123</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>420.239</Hsp_bit-score>
+      <Hsp_score>1079</Hsp_score>
+      <Hsp_evalue>8.66507e-148</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACHAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRAC AVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_006084471.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella abortus] &gt;gb|ENR62457.1| hypothetical protein C028_02797 [Brucella abortus 63/168]</Hit_def>
+  <Hit_accession>WP_006084471</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>420.239</Hsp_bit-score>
+      <Hsp_score>1079</Hsp_score>
+      <Hsp_evalue>9.25473e-148</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGPAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLG AGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_006164874.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella sp. 63/311] &gt;gb|ENT02264.1| hypothetical protein C038_03097 [Brucella sp. 63/311]</Hit_def>
+  <Hit_accession>WP_006164874</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.853</Hsp_bit-score>
+      <Hsp_score>1078</Hsp_score>
+      <Hsp_evalue>1.51635e-147</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWPQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDW QYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_141066584.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MBN7665322.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MBN7677001.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MBN7718897.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MBN7722230.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MBO1545854.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_141066584</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.853</Hsp_bit-score>
+      <Hsp_score>1078</Hsp_score>
+      <Hsp_evalue>1.53308e-147</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGMDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQHLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAG+DTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQ+LHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_346210910.1|</Hit_id>
+  <Hit_def>5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MEN3401820.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MEN3487828.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MEN3510556.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MEN3513791.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis] &gt;gb|MEN3598751.1| 5&apos;-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Brucella melitensis]</Hit_def>
+  <Hit_accession>WP_346210910</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.468</Hsp_bit-score>
+      <Hsp_score>1077</Hsp_score>
+      <Hsp_evalue>1.72975e-147</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGVGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQYLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_qseq>
+      <Hsp_hseq>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIGAGPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQHLHVIDEKLAGAVARVERAVADGLLSPS</Hsp_hseq>
+      <Hsp_midline>MMKTVAGKRLLYVMAADAEYGRHLAKLFTPLMIG GPVEAAVNLASALAHLKLAGDMPDLVISLGSAGSAKLPQAEVYQVSSVSYRDMDASPIGFEKGVTPFLDLPETVELPFRVAGIDTASLSTGGNIVSGKAYERIEADMVDMETYACLRACQAVGVPLLGLRGISDGASELKHVGDWTQ+LHVIDEKLAGAVARVERAVADGLLSPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

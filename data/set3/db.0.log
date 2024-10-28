@@ -1,0 +1,103 @@
+Tue 15 Oct 13:26:59 2024 [25626@net] opening rw... by justo(1000)
+Tue 15 Oct 13:26:59 2024 [25626@net] ...opened
+Tue 15 Oct 13:27:14 2024 [25626@net] auto assemble
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 12 (last) to 6 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 20 (last) to 3 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 20 (last) to 10 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 19 (last) to 13 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 18 (last) to 4 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 17 (last) to 17 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 16 (last) to 14 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 15 (last) to 9 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 14 (last) to 3 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 15 (last) to 6 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 14 (last) to 3 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 14 (last) to 13 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 13 (last) to 3 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 12 (last) to 9 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 11 (last) to 2 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 10 (last) to 1 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 9 (last) to 4 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 10 (last) to 2 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 9 (last) to 3 (deleting)
+Tue 15 Oct 13:27:15 2024 [25626@net] > Delete contig. Renumber 10 (last) to 1 (deleting)
+Tue 15 Oct 13:27:16 2024 [25626@net] > Register id=1 cnum=1 func=0x76a52a469950 data=0x563d37d3b3b0 :Contig selector
+Tue 15 Oct 13:28:52 2024 [25626@net] > Register id=2 cnum=0 func=0x76a52a42cd20 data=0x563d37d29f60 :
+Tue 15 Oct 13:29:31 2024 [25626@net] template display
+Tue 15 Oct 13:29:31 2024 [25626@net] > Register id=3 cnum=5 func=0x76a52a45f9b0 data=0x563d37d50310 :Template display
+Tue 15 Oct 13:29:32 2024 [25626@net] > Deregister id=3 cnum=5 func=0x76a52a45f9b0 data=0x563d37d50310 :Template display
+Tue 15 Oct 13:29:53 2024 [25626@net] find internal joins
+Tue 15 Oct 13:29:53 2024 [25626@net] > Register id=5 cnum=1 func=0x76a52a461350 data=0x563d371d3eb0 :Find Internal Joins
+Tue 15 Oct 13:30:12 2024 [25626@net] > Register id=6 cnum=5 func=0x76a52a4af710 data=0x563d37d90c70 :Contig editor @ =5
+Tue 15 Oct 13:30:12 2024 [25626@net] > Register id=7 cnum=4 func=0x76a52a4af710 data=0x563d37851c00 :Contig editor @ =4
+Wed 16 Oct 15:42:26 2024 [3261@net] opening rw... by justo(1000)
+Wed 16 Oct 15:42:26 2024 [3261@net] ...opened
+Wed 16 Oct 15:42:26 2024 [3261@net] check database
+Wed 16 Oct 15:42:29 2024 [3261@net] > Register id=1 cnum=1 func=0x7e461c669950 data=0x6164a49f2eb0 :Contig selector
+Wed 16 Oct 15:42:29 2024 [3261@net] Database information
+Wed 16 Oct 15:42:42 2024 [3261@net] > Deregister id=1 cnum=1 func=0x7e461c669950 data=0x6164a49f2eb0 :Contig selector
+Wed 16 Oct 15:42:44 2024 [3261@net] close database
+Wed 16 Oct 15:42:44 2024 [3261@net] closing...
+Wed 16 Oct 15:42:44 2024 [3261@net] ...closed
+Wed 16 Oct 16:02:47 2024 [3351@net] opening rw... by justo(1000)
+Wed 16 Oct 16:02:47 2024 [3351@net] ...opened
+Wed 16 Oct 16:02:47 2024 [3351@net] check database
+Wed 16 Oct 16:02:48 2024 [3351@net] > Register id=1 cnum=1 func=0x7da20d869950 data=0x638daed05b90 :Contig selector
+Wed 16 Oct 16:02:48 2024 [3351@net] Database information
+Wed 16 Oct 16:03:17 2024 [3351@net] edit contig
+Wed 16 Oct 16:03:17 2024 [3351@net] > Register id=2 cnum=5 func=0x7da20d8af710 data=0x638daf4ea880 :Contig editor @ =5
+Wed 16 Oct 16:03:18 2024 [3351@net] > Deregister id=2 cnum=5 func=0x7da20d8af710 data=0x638daf4ea880 :Contig editor @ 187
+Wed 16 Oct 16:03:23 2024 [3351@net] find internal joins
+Wed 16 Oct 16:03:23 2024 [3351@net] > Register id=4 cnum=1 func=0x7da20d861350 data=0x638dae927b40 :Find Internal Joins
+Wed 16 Oct 16:03:27 2024 [3351@net] > Register id=5 cnum=4 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ =4
+Wed 16 Oct 16:03:27 2024 [3351@net] > Register id=6 cnum=1 func=0x7da20d8af710 data=0x638daf592f20 :Contig editor @ =1
+Wed 16 Oct 16:04:00 2024 [3351@net] Align contigs (join editor)
+Wed 16 Oct 16:05:03 2024 [3351@net] > Deregister id=6 cnum=1 func=0x7da20d8af710 data=0x638daf592f20 :Contig editor @ 223
+Wed 16 Oct 16:05:03 2024 [3351@net] > Register_join cfrom=1 cto=4
+Wed 16 Oct 16:05:03 2024 [3351@net] > Register_join done
+Wed 16 Oct 16:05:03 2024 [3351@net] > Delete contig. Renumber 9 (last) to 1 (deleting)
+Wed 16 Oct 16:05:03 2024 [3351@net] > Deregister id=5 cnum=4 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ 147
+Wed 16 Oct 16:05:08 2024 [3351@net] > Register id=7 cnum=5 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ =5
+Wed 16 Oct 16:05:08 2024 [3351@net] > Register id=8 cnum=8 func=0x7da20d8af710 data=0x638daf4e9ec0 :Contig editor @ =8
+Wed 16 Oct 16:05:12 2024 [3351@net] Align contigs (join editor)
+Wed 16 Oct 16:05:43 2024 [3351@net] > Deregister id=8 cnum=8 func=0x7da20d8af710 data=0x638daf4e9ec0 :Contig editor @ 11
+Wed 16 Oct 16:05:43 2024 [3351@net] > Register_join cfrom=8 cto=5
+Wed 16 Oct 16:05:43 2024 [3351@net] > Register_join done
+Wed 16 Oct 16:05:43 2024 [3351@net] > Delete contig. Renumber 8 (last) to 8 (deleting)
+Wed 16 Oct 16:05:43 2024 [3351@net] > Deregister id=7 cnum=5 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ 187
+Wed 16 Oct 16:05:47 2024 [3351@net] > Register id=9 cnum=4 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ =4
+Wed 16 Oct 16:05:47 2024 [3351@net] > Register id=10 cnum=2 func=0x7da20d8af710 data=0x638daf4e9ec0 :Contig editor @ =2
+Wed 16 Oct 16:06:19 2024 [3351@net] > Register id=11 cnum=7 func=0x7da20d8af710 data=0x638daf75c570 :Contig editor @ =7
+Wed 16 Oct 16:06:19 2024 [3351@net] > Register id=12 cnum=3 func=0x7da20d8af710 data=0x638daf7e94c0 :Contig editor @ =3
+Wed 16 Oct 16:06:25 2024 [3351@net] Align contigs (join editor)
+Wed 16 Oct 16:06:46 2024 [3351@net] > Deregister id=12 cnum=3 func=0x7da20d8af710 data=0x638daf7e94c0 :Contig editor @ 161
+Wed 16 Oct 16:06:46 2024 [3351@net] > Register_join cfrom=3 cto=7
+Wed 16 Oct 16:06:46 2024 [3351@net] > Register_join done
+Wed 16 Oct 16:06:46 2024 [3351@net] > Delete contig. Renumber 7 (last) to 3 (deleting)
+Wed 16 Oct 16:06:46 2024 [3351@net] > Deregister id=11 cnum=3 func=0x7da20d8af710 data=0x638daf75c570 :Contig editor @ 22
+Wed 16 Oct 16:06:53 2024 [3351@net] > Register id=13 cnum=3 func=0x7da20d8af710 data=0x638daf75c570 :Contig editor @ =3
+Wed 16 Oct 16:06:58 2024 [3351@net] Align contigs (join editor)
+Wed 16 Oct 16:52:40 2024 [3351@net] > Deregister id=13 cnum=3 func=0x7da20d8af710 data=0x638daf75c570 :Contig editor @ 22
+Wed 16 Oct 16:52:43 2024 [3351@net] Align contigs (join editor)
+Wed 16 Oct 16:52:46 2024 [3351@net] > Deregister id=10 cnum=2 func=0x7da20d8af710 data=0x638daf4e9ec0 :Contig editor @ 164
+Wed 16 Oct 16:52:46 2024 [3351@net] > Register_join cfrom=2 cto=4
+Wed 16 Oct 16:52:46 2024 [3351@net] > Register_join done
+Wed 16 Oct 16:52:46 2024 [3351@net] > Delete contig. Renumber 6 (last) to 2 (deleting)
+Wed 16 Oct 16:52:46 2024 [3351@net] > Deregister id=9 cnum=4 func=0x7da20d8af710 data=0x638daede6640 :Contig editor @ 147
+Wed 16 Oct 16:52:49 2024 [3351@net] > Deregister id=4 cnum=1 func=0x7da20d861350 data=0x638dae927b40 :Find Internal Joins
+Wed 16 Oct 16:52:49 2024 [3351@net] > Deregister id=1 cnum=1 func=0x7da20d869950 data=0x638daed05b90 :Contig selector
+Wed 16 Oct 16:52:49 2024 [3351@net] close database
+Wed 16 Oct 16:52:49 2024 [3351@net] closing...
+Wed 16 Oct 16:52:49 2024 [3351@net] ...closed
+Fri 18 Oct 09:56:19 2024 [3087@net] opening rw... by justo(1000)
+Fri 18 Oct 09:56:19 2024 [3087@net] ...opened
+Fri 18 Oct 09:56:20 2024 [3087@net] check database
+Fri 18 Oct 09:56:20 2024 [3087@net] > Register id=1 cnum=1 func=0x72d7a5869950 data=0x5b2391c24f50 :Contig selector
+Fri 18 Oct 09:56:20 2024 [3087@net] Database information
+Fri 18 Oct 09:56:32 2024 [3087@net] find internal joins
+Fri 18 Oct 09:56:32 2024 [3087@net] > Register id=3 cnum=1 func=0x72d7a5861350 data=0x5b2391c9bc50 :Find Internal Joins
+Fri 18 Oct 09:57:00 2024 [3087@net] > Deregister id=3 cnum=1 func=0x72d7a5861350 data=0x5b2391c9bc50 :Find Internal Joins
+Fri 18 Oct 09:57:00 2024 [3087@net] > Deregister id=1 cnum=1 func=0x72d7a5869950 data=0x5b2391c24f50 :Contig selector
+Fri 18 Oct 09:57:04 2024 [3087@net] close database
+Fri 18 Oct 09:57:04 2024 [3087@net] closing...
+Fri 18 Oct 09:57:04 2024 [3087@net] ...closed

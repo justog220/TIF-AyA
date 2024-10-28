@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_3237119</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00025 hypothetical protein</BlastOutput_query-def>
+  <BlastOutput_query-len>76</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_3237119</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00025 hypothetical protein</Iteration_query-def>
+  <Iteration_query-len>76</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_006191822.1|</Hit_id>
+  <Hit_def>MULTISPECIES: AlpA family transcriptional regulator [Brucella] &gt;gb|AAN33561.1| DNA-binding protein, putative [Brucella suis 1330] &gt;gb|AEM19840.1| DNA-binding protein, putative [Brucella suis 1330] &gt;gb|AEU07510.1| DNA-binding protein, putative [Brucella suis VBI22] &gt;gb|AHN48109.1| DNA-binding protein [Brucella suis bv. 1 str. S2] &gt;gb|AIN85667.1| DNA-binding protein [Brucella suis]</Hit_def>
+  <Hit_accession>WP_006191822</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.688</Hsp_bit-score>
+      <Hsp_score>400</Hsp_score>
+      <Hsp_evalue>1.80583e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_000410046.1|</Hit_id>
+  <Hit_def>MULTISPECIES: AlpA family transcriptional regulator [Pseudomonadota] &gt;gb|EBE3863201.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Agona] &gt;gb|EBG2871595.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Stanley] &gt;gb|EBK1922345.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Newport] &gt;gb|EBL3523839.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Schwarzengrund] &gt;gb|EBR0123343.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Sinstorf] &gt;gb|EBV0483727.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Kentucky] &gt;gb|EBV5822088.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Cubana] &gt;gb|EBW8386563.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Mbandaka] &gt;gb|ECD4881757.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Coleypark] &gt;gb|ECG0832307.1| AlpA family phage regulatory protein [Salmonella enterica subsp. diarizonae] &gt;gb|ECT6657887.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar 3,10:e,h:-] &gt;gb|EDB4591776.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Tennessee] &gt;gb|EDH4904195.1| DNA-binding protein [Salmonella enterica subsp. enterica serovar Give] &gt;gb|EDN4225556.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Pomona] &gt;gb|EDQ3408312.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Javiana] &gt;gb|EDQ4438287.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Saintpaul] &gt;gb|EDS5960747.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Berta] &gt;gb|EDV8167500.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Braenderup] &gt;gb|EDX4536377.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Calabar] &gt;gb|EEJ2864019.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Poona] &gt;gb|EFH32349.1| prophage regulatory protein [Brucella abortus bv. 5 str. B3196] &gt;gb|EFN8594679.1| AlpA family phage regulatory protein [Escherichia coli O41:H11] &gt;gb|EGA4908612.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Thompson] &gt;gb|EGI5839887.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Carrau] &gt;gb|EGT3574891.1| AlpA family phage regulatory protein [Citrobacter amalonaticus] &gt;gb|EII7117132.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Infantis] &gt;gb|ELJ5832176.1| AlpA family phage regulatory protein [Enterobacter kobei] &gt;gb|ENO6765953.1| AlpA family phage regulatory protein [Salmonella enterica subsp. diarizonae serovar 61:z52:z53] &gt;gb|ERT89301.1| hypothetical protein P041_03163 [Brucella sp. 04-5288] &gt;gb|MBJ2973480.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Corvallis] &gt;gb|MBJ4791754.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Goldcoast] &gt;gb|MDH0123929.1| AlpA family phage regulatory protein [Brucella intermedia GD04153] &gt;gb|MDU3991975.1| AlpA family phage regulatory protein [Enterobacter sp.] &gt;gb|MEE7332916.1| AlpA family phage regulatory protein [Escherichia coli O21:H21] &gt;gb|NBD01384.1| AlpA family phage regulatory protein [Atlantibacter hermannii] &gt;gb|WGN05741.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Reading] &gt;tpg|HBN2575490.1| AlpA family phage regulatory protein [Escherichia coli O25b:H4-ST131] &gt;tpg|HCJ0093554.1| AlpA family phage regulatory protein [Enterobacter hormaechei subsp. xiangfangensis] &gt;tpg|HCT1604321.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-] &gt;tpg|HDS4940992.1| AlpA family phage regulatory protein [Klebsiella pneumoniae subsp. ozaenae] &gt;tpg|HED1418526.1| AlpA family phage regulatory protein [Kluyvera georgiana] &gt;tpg|HFD7558729.1| helix-turn-helix transcriptional regulator [Providencia rettgeri]</Hit_def>
+  <Hit_accession>WP_000410046</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.836</Hsp_bit-score>
+      <Hsp_score>390</Hsp_score>
+      <Hsp_evalue>4.9805e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|EEC9333934.1|</Hit_id>
+  <Hit_def>AlpA family phage regulatory protein [Escherichia coli] &gt;gb|EEZ4345403.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|EMZ7167964.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|ENY9566829.1| helix-turn-helix transcriptional regulator [Escherichia coli]</Hit_def>
+  <Hit_accession>EEC9333934</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.451</Hsp_bit-score>
+      <Hsp_score>389</Hsp_score>
+      <Hsp_evalue>7.64374e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWVDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAW+DACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|MBH2841048.1|</Hit_id>
+  <Hit_def>AlpA family phage regulatory protein [Serratia marcescens]</Hit_def>
+  <Hit_accession>MBH2841048</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.451</Hsp_bit-score>
+      <Hsp_score>389</Hsp_score>
+      <Hsp_evalue>8.62535e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRATKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRA+KVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_071961390.1|</Hit_id>
+  <Hit_def>MULTISPECIES: AlpA family transcriptional regulator [Pseudomonadota] &gt;gb|EAP5566587.1| AlpA family phage regulatory protein [Salmonella enterica] &gt;gb|EBG5496955.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Lagos] &gt;gb|MBJ2375047.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Typhimurium] &gt;gb|MCL8732916.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Enteritidis] &gt;gb|MEP8706663.1| AlpA family phage regulatory protein [Enterobacter hormaechei] &gt;tpg|HDT4468937.1| AlpA family phage regulatory protein [Klebsiella pneumoniae subsp. pneumoniae] &gt;tpg|HDX8934350.1| AlpA family phage regulatory protein [Klebsiella oxytoca] &gt;tpg|HEQ3391841.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Derby]</Hit_def>
+  <Hit_accession>WP_071961390</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.19916e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MERELRRASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>ME+ELRRASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|EJF0979488.1|</Hit_id>
+  <Hit_def>AlpA family phage regulatory protein [Escherichia coli]</Hit_def>
+  <Hit_accession>EJF0979488</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.19916e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASRVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRAS+VLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_200790980.1|</Hit_id>
+  <Hit_def>MULTISPECIES: AlpA family transcriptional regulator [Klebsiella] &gt;gb|MBP0686024.1| AlpA family phage regulatory protein [Klebsiella pneumoniae] &gt;tpg|HCB0642574.1| AlpA family phage regulatory protein [Klebsiella variicola subsp. variicola]</Hit_def>
+  <Hit_accession>WP_200790980</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.21241e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASKVLISKKQLLDMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRASKVLISKKQLL+M PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_074186067.1|</Hit_id>
+  <Hit_def>MULTISPECIES: AlpA family transcriptional regulator [Klebsiella] &gt;gb|EBB7620029.1| AlpA family phage regulatory protein [Salmonella enterica] &gt;gb|EBX4017293.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Saintpaul] &gt;gb|EDY7090931.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Litchfield] &gt;gb|EKT4985016.1| AlpA family phage regulatory protein [Salmonella enterica subsp. enterica serovar Livingstone] &gt;gb|MCO3757355.1| AlpA family phage regulatory protein [Pseudomonas aeruginosa] &gt;tpg|HAI1694712.1| AlpA family phage regulatory protein [Escherichia coli O25b:H4-ST131] &gt;tpg|HAJ9100291.1| AlpA family phage regulatory protein [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_074186067</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.68</Hsp_bit-score>
+      <Hsp_score>387</Hsp_score>
+      <Hsp_evalue>1.28085e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRKASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELR+ASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_195207068.1|</Hit_id>
+  <Hit_def>AlpA family transcriptional regulator [Enterobacter hormaechei] &gt;gb|MBJ6571660.1| AlpA family phage regulatory protein [Enterobacter hormaechei] &gt;gb|MBK4488991.1| AlpA family phage regulatory protein [Enterobacter hormaechei] &gt;gb|QPD69963.1| AlpA family phage regulatory protein [Enterobacter hormaechei subsp. steigerwaltii]</Hit_def>
+  <Hit_accession>WP_195207068</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.68</Hsp_bit-score>
+      <Hsp_score>387</Hsp_score>
+      <Hsp_evalue>1.49376e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKEFRRASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKE RRASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_097444864.1|</Hit_id>
+  <Hit_def>AlpA family transcriptional regulator [Escherichia coli] &gt;gb|EFI2761957.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|EKT6290050.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|EMC8317293.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|ENB3827966.1| AlpA family phage regulatory protein [Escherichia coli] &gt;gb|ENH2205479.1| AlpA family phage regulatory protein [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_097444864</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.68</Hsp_bit-score>
+      <Hsp_score>387</Hsp_score>
+      <Hsp_evalue>1.56085e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MEKELRRASKVLISKKQLLEMNPLCERTIYNFEKQGKFPQRIALSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_qseq>
+      <Hsp_hseq>MEKELRRASKVLISKKQLLEMIPLCERTIYNFEKQGKFPQRITLSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_hseq>
+      <Hsp_midline>MEKELRRASKVLISKKQLLEM PLCERTIYNFEKQGKFPQRI LSSRKVVWDLAEVEAWIDACKHSSPAPRPGMGA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

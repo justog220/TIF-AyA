@@ -1,0 +1,6 @@
+- "single reads":
+  - "/home/justo/Documentos/TPIAyA/data/spades/corrected/Set3.00.0_0.cor.fastq.gz"
+  "type": "single"
+- "single reads":
+  - "/home/justo/Documentos/TPIAyA/data/consenso.fasta"
+  "type": "trusted-contigs"

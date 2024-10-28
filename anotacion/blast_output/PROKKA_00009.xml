@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_381947</BlastOutput_query-ID>
+  <BlastOutput_query-def>PROKKA_00009 Glycine cleavage system transcriptional activator</BlastOutput_query-def>
+  <BlastOutput_query-len>295</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_381947</Iteration_query-ID>
+  <Iteration_query-def>PROKKA_00009 Glycine cleavage system transcriptional activator</Iteration_query-def>
+  <Iteration_query-len>295</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_004690098.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [Brucella] &gt;gb|AAN33544.1| transcriptional regulator, LysR family [Brucella suis 1330] &gt;gb|ABX63532.1| HTH-type transcriptional activator ampR [Brucella canis ATCC 23365] &gt;gb|AEM19823.1| LysR family transcriptional regulator [Brucella suis 1330] &gt;gb|AEU07493.1| LysR family transcriptional regulator [Brucella suis VBI22] &gt;gb|AHN48092.1| LysR family transcriptional regulator [Brucella suis bv. 1 str. S2]</Hit_def>
+  <Hit_accession>WP_004690098</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>607.06</Hsp_bit-score>
+      <Hsp_score>1564</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>295</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_002966243.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [Brucella] &gt;gb|KFH23689.1| LysR family transcriptional regulator [Brucella abortus LMN1] &gt;gb|KFH24788.1| LysR family transcriptional regulator [Brucella abortus LMN2] &gt;gb|AAX76228.1| transcriptional regulator, LysR family [Brucella abortus bv. 1 str. 9-941] &gt;gb|ACD74286.1| Bacterial regulatory protein LysR, HTH motif [Brucella abortus S19] &gt;gb|AIJ51143.1| bacterial regulatory, arsR family protein [Brucella abortus]</Hit_def>
+  <Hit_accession>WP_002966243</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>605.134</Hsp_bit-score>
+      <Hsp_score>1559</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>294</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQESGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQE GYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_004687429.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [Brucella] &gt;gb|AHB03497.1| regulatory protein LysR [Brucella ceti TE28753-12] &gt;gb|ACU49476.1| transcriptional regulator, LysR family [Brucella microti CCM 4915] &gt;gb|AHB01105.1| regulatory protein LysR [Brucella ceti TE10759-12] &gt;gb|AIJ66914.1| bacterial regulatory, arsR family protein [Brucella suis] &gt;gb|EEH13688.1| HTH-type transcriptional activator ampR [Brucella ceti str. Cudo]</Hit_def>
+  <Hit_accession>WP_004687429</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>604.749</Hsp_bit-score>
+      <Hsp_score>1558</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>294</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_002968343.1|</Hit_id>
+  <Hit_def>LysR family transcriptional regulator [Brucella abortus] &gt;gb|AIJ56660.1| bacterial regulatory, arsR family protein [Brucella abortus] &gt;gb|AIJ75311.1| bacterial regulatory, arsR family protein [Brucella abortus] &gt;gb|EEX84310.1| transcriptional regulator [Brucella abortus bv. 3 str. Tulya] &gt;gb|ENP33758.1| hypothetical protein C088_02518 [Brucella abortus 65/110] &gt;gb|ENP40777.1| hypothetical protein C055_03024 [Brucella abortus 78/36]</Hit_def>
+  <Hit_accession>WP_002968343</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>604.749</Hsp_bit-score>
+      <Hsp_score>1558</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>294</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVLLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHV LAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_006015524.1|</Hit_id>
+  <Hit_def>LysR family transcriptional regulator [Brucella ovis] &gt;gb|ABQ62418.1| transcriptional regulator, LysR family [Brucella ovis ATCC 25840] &gt;gb|ENR01740.1| hypothetical protein C010_02563 [Brucella ovis 80/125] &gt;gb|ENR06652.1| hypothetical protein C961_02273 [Brucella ovis F8/05B] &gt;gb|ENS93284.1| hypothetical protein B999_02539 [Brucella ovis 63/96] &gt;gb|ENS97749.1| hypothetical protein C009_02412 [Brucella ovis 81/8]</Hit_def>
+  <Hit_accession>WP_006015524</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>603.594</Hsp_bit-score>
+      <Hsp_score>1555</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>294</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWMLYKQELPETELPVENRVILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRW+LYKQELPETELPVENR+ILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_076773530.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [unclassified Brucella] &gt;gb|APY16005.1| LysR family transcriptional regulator [Brucella sp. 09RB8910] &gt;gb|MRN47289.1| LysR family transcriptional regulator [Brucella sp. 10RB9212] &gt;gb|MRN50139.1| LysR family transcriptional regulator [Brucella sp. 10RB9214]</Hit_def>
+  <Hit_accession>WP_076773530</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.053</Hsp_bit-score>
+      <Hsp_score>1551</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLAKAGLQSGELVQLYPTVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLA+AGLQSGELVQLYP VIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_006162137.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [Brucella] &gt;gb|AEK55793.1| transcriptional regulator, LysR family [Brucella pinnipedialis B2/94] &gt;gb|AIJ73230.1| bacterial regulatory, arsR family protein [Brucella pinnipedialis] &gt;gb|EEY01921.1| transcriptional regulator [Brucella pinnipedialis B2/94] &gt;gb|EEY06083.1| transcriptional regulator [Brucella pinnipedialis M163/99/10] &gt;gb|EEZ29255.1| transcriptional regulator [Brucella pinnipedialis M292/94/1]</Hit_def>
+  <Hit_accession>WP_006162137</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.053</Hsp_bit-score>
+      <Hsp_score>1551</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPQGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIP GYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_138144878.1|</Hit_id>
+  <Hit_def>MULTISPECIES: LysR family transcriptional regulator [unclassified Brucella] &gt;gb|MRN65714.1| LysR family transcriptional regulator [Brucella sp. 10RB9213] &gt;emb|SBW15525.1| transcriptional regulator, LysR family [Brucella sp. 10RB9215]</Hit_def>
+  <Hit_accession>WP_138144878</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.053</Hsp_bit-score>
+      <Hsp_score>1551</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLAKAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSNAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLA+AGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYS AIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_259595067.1|</Hit_id>
+  <Hit_def>LysR family transcriptional regulator [Brucella sp. 2716] &gt;gb|UWF60841.1| LysR family transcriptional regulator [Brucella sp. 2716]</Hit_def>
+  <Hit_accession>WP_259595067</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>601.668</Hsp_bit-score>
+      <Hsp_score>1550</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVERRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVE RSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_006073458.1|</Hit_id>
+  <Hit_def>LysR family transcriptional regulator [Brucella suis] &gt;gb|ABY39355.1| Hypothetical protein, conserved [Brucella suis ATCC 23445] &gt;gb|ENR19949.1| hypothetical protein C050_02181 [Brucella suis 92/63] &gt;gb|ENR25737.1| hypothetical protein C978_02134 [Brucella suis 94/11] &gt;gb|ENR31602.1| hypothetical protein C977_02124 [Brucella suis F4/06-146] &gt;gb|ENR32920.1| hypothetical protein C006_02275 [Brucella suis F5/03-2]</Hit_def>
+  <Hit_accession>WP_006073458</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>600.512</Hsp_bit-score>
+      <Hsp_score>1547</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLRILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETELPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRSSLRTKPPYSQAIRQIILATSPEARSA</Hsp_qseq>
+      <Hsp_hseq>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQLWILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPETKLPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCRPSLRTKPPYSQAIRQIILATSPEARSA</Hsp_hseq>
+      <Hsp_midline>MRFNLRALQAFEAVSRHLSVLKAAEELGITSSAVSHQL ILTEDLGYNLIEREGRNIVLTERGLQFARHLQDAFRHVQLAMVEGRSVQNDRVRIAACSSFCQGFLIDLVADTIAQEGGYEIDMRMYANDPQLASVVADIFVTSDDIPHGYWATDLFTEQLVAVCTPACRDEELKTRSVPFIKNEALELTGECRWLLYKQELPET+LPVENRLILRTSHFILALEMANRGLGMALVPDFLARAGLQSGELVQLYPAVIPSGRKYKICCR SLRTKPPYSQAIRQIILATSPEARSA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>826275536</Statistics_db-num>
+      <Statistics_db-len>316088700629</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

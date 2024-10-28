@@ -1,0 +1,41 @@
+Command line: /home/justo/miniconda3/envs/ensambladoAyAS/bin/spades.py	--s1	/home/justo/Documentos/TPIAyA/data/Set3.fq	--trusted-contigs	/home/justo/Documentos/TPIAyA/data/consenso.fasta	--careful	-o	/home/justo/Documentos/TPIAyA/data/spades	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 3.6.13
+  OS: Linux-6.8.0-47-generic-x86_64-with-debian-trixie-sid
+
+Output dir: /home/justo/Documentos/TPIAyA/data/spades
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/justo/Documentos/TPIAyA/data/Set3.fq']
+      merged reads: not specified
+    Library number: 2, library type: trusted-contigs
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/justo/Documentos/TPIAyA/data/consenso.fasta']
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned ON
+  MismatchCorrector will be used
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/justo/Documentos/TPIAyA/data/spades/tmp
+  Threads: 16
+  Memory limit (in Gb): 11
+

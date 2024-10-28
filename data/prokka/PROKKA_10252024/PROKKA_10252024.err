@@ -1,0 +1,198 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:26 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 26 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:26 features have inconsistent gene locations.
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	use protein instead of gene as appropriate
+		1 features contains 'genes'
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:27 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+SEQ_ID_PHRASES:Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::26 proteins have invalid IDs.
+PROKKA_10252024/PROKKA_10252024:NODE_1_1 (length 50)
+PROKKA_10252024/PROKKA_10252024:NODE_1_2 (length 319)
+PROKKA_10252024/PROKKA_10252024:NODE_1_3 (length 136)
+PROKKA_10252024/PROKKA_10252024:NODE_1_4 (length 426)
+PROKKA_10252024/PROKKA_10252024:NODE_1_5 (length 317)
+PROKKA_10252024/PROKKA_10252024:NODE_1_6 (length 114)
+PROKKA_10252024/PROKKA_10252024:NODE_1_7 (length 54)
+PROKKA_10252024/PROKKA_10252024:NODE_1_8 (length 530)
+PROKKA_10252024/PROKKA_10252024:NODE_1_9 (length 295)
+PROKKA_10252024/PROKKA_10252024:NODE_1_10 (length 471)
+PROKKA_10252024/PROKKA_10252024:NODE_1_11 (length 477)
+PROKKA_10252024/PROKKA_10252024:NODE_1_12 (length 368)
+PROKKA_10252024/PROKKA_10252024:NODE_1_13 (length 451)
+PROKKA_10252024/PROKKA_10252024:NODE_1_14 (length 497)
+PROKKA_10252024/PROKKA_10252024:NODE_1_15 (length 357)
+PROKKA_10252024/PROKKA_10252024:NODE_1_16 (length 317)
+PROKKA_10252024/PROKKA_10252024:NODE_1_17 (length 499)
+PROKKA_10252024/PROKKA_10252024:NODE_1_18 (length 57)
+PROKKA_10252024/PROKKA_10252024:NODE_1_19 (length 208)
+PROKKA_10252024/PROKKA_10252024:NODE_1_20 (length 429)
+PROKKA_10252024/PROKKA_10252024:NODE_1_21 (length 191)
+PROKKA_10252024/PROKKA_10252024:NODE_1_22 (length 210)
+PROKKA_10252024/PROKKA_10252024:NODE_1_23 (length 520)
+PROKKA_10252024/PROKKA_10252024:NODE_1_24 (length 418)
+PROKKA_10252024/PROKKA_10252024:NODE_1_25 (length 76)
+PROKKA_10252024/PROKKA_10252024:NODE_1_26 (length 352)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 26 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::26 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:41-193	PROKKA_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Glutamate decarboxylase alpha	NODE_1:1221-2180	PROKKA_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Glutamate decarboxylase beta	NODE_1:2205-2615	PROKKA_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Glutamate/gamma-aminobutyrate antiporter	NODE_1:2942-4222	PROKKA_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Glutaminase 1	NODE_1:4258-5211	PROKKA_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	putative acid stress chaperone HdeA precursor	NODE_1:5359-5703	PROKKA_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:6303-6467	PROKKA_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	putative membrane protein YjcC	NODE_1:c8136-6544	PROKKA_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Glycine cleavage system transcriptional activator	NODE_1:8926-9813	PROKKA_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Alginate biosynthesis protein AlgA	NODE_1:c11349-9934	PROKKA_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Phosphoglucosamine mutase	NODE_1:c12779-11346	PROKKA_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:c14005-12899	PROKKA_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	H(+)/Cl(-) exchange transporter ClcA	NODE_1:c15384-14029	PROKKA_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Inosine-5'-monophosphate dehydrogenase	NODE_1:15579-17072	PROKKA_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	SoxAX cytochrome complex subunit A precursor	NODE_1:c18350-17277	PROKKA_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Hydrogen peroxide-inducible genes activator	NODE_1:c19372-18419	PROKKA_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Catalase	NODE_1:19542-21041	PROKKA_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:21172-21345	PROKKA_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Disulfide bond formation protein B	NODE_1:21374-22000	PROKKA_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Ribosomal RNA small subunit methyltransferase B	NODE_1:22177-23466	PROKKA_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:23637-24212	PROKKA_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	NODE_1:24209-24841	PROKKA_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	GMP synthase [glutamine-hydrolyzing]	NODE_1:24950-26512	PROKKA_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	Prophage CP4-57 integrase	NODE_1:26773-28029	PROKKA_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:28314-28544	PROKKA_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+PROKKA_10252024/PROKKA_10252024:CDS	hypothetical protein	NODE_1:28625-29683	PROKKA_00026
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::use protein instead of gene as appropriate
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains 'genes'
+PROKKA_10252024/PROKKA_10252024:CDS	Hydrogen peroxide-inducible genes activator	NODE_1:c19372-18419	PROKKA_00016
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+PROKKA_10252024/PROKKA_10252024:NODE_1:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:MISSING_PROJECT::27 sequences do not include project.
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+PROKKA_10252024/PROKKA_10252024:NODE_1_1 (length 50)
+PROKKA_10252024/PROKKA_10252024:NODE_1_2 (length 319)
+PROKKA_10252024/PROKKA_10252024:NODE_1_3 (length 136)
+PROKKA_10252024/PROKKA_10252024:NODE_1_4 (length 426)
+PROKKA_10252024/PROKKA_10252024:NODE_1_5 (length 317)
+PROKKA_10252024/PROKKA_10252024:NODE_1_6 (length 114)
+PROKKA_10252024/PROKKA_10252024:NODE_1_7 (length 54)
+PROKKA_10252024/PROKKA_10252024:NODE_1_8 (length 530)
+PROKKA_10252024/PROKKA_10252024:NODE_1_9 (length 295)
+PROKKA_10252024/PROKKA_10252024:NODE_1_10 (length 471)
+PROKKA_10252024/PROKKA_10252024:NODE_1_11 (length 477)
+PROKKA_10252024/PROKKA_10252024:NODE_1_12 (length 368)
+PROKKA_10252024/PROKKA_10252024:NODE_1_13 (length 451)
+PROKKA_10252024/PROKKA_10252024:NODE_1_14 (length 497)
+PROKKA_10252024/PROKKA_10252024:NODE_1_15 (length 357)
+PROKKA_10252024/PROKKA_10252024:NODE_1_16 (length 317)
+PROKKA_10252024/PROKKA_10252024:NODE_1_17 (length 499)
+PROKKA_10252024/PROKKA_10252024:NODE_1_18 (length 57)
+PROKKA_10252024/PROKKA_10252024:NODE_1_19 (length 208)
+PROKKA_10252024/PROKKA_10252024:NODE_1_20 (length 429)
+PROKKA_10252024/PROKKA_10252024:NODE_1_21 (length 191)
+PROKKA_10252024/PROKKA_10252024:NODE_1_22 (length 210)
+PROKKA_10252024/PROKKA_10252024:NODE_1_23 (length 520)
+PROKKA_10252024/PROKKA_10252024:NODE_1_24 (length 418)
+PROKKA_10252024/PROKKA_10252024:NODE_1_25 (length 76)
+PROKKA_10252024/PROKKA_10252024:NODE_1_26 (length 352)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+PROKKA_10252024/PROKKA_10252024:NODE_1 (length 30000)
+
+DiscRep_ALL:SEQ_ID_PHRASES::Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+
