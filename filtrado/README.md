@@ -1,3 +1,5 @@
 # Filtrado de secuencias
 
-Este directorio contiene el script y los archivos auxiliares necesarios para 
+> [!CAUTION]
+> Este script no fue utilizado en el desarrollo de este trabajo práctico. Enfrentamos diferencias al hacerlo de forma manual por lo que se descartó esta automatización
+
