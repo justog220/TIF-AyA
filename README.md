@@ -77,3 +77,6 @@ Cada subdirectorio contiene los resultados específicos de cada análisis:
 ## 📈 Informe y Documentación
 Una versión más académica y extendida de los procesos llevados a cabo puede visualizarse en [`Informe.pdf`](https://github.com/justog220/TIF-AyA/blob/main/Informe.pdf).
 
+## 👥 Integrantes
+<a href="https://github.com/justog220"><img src="https://avatars.githubusercontent.com/u/85772318?v=4" title="justog220" width="50" height="50"></a>
+<a href="https://github.com/abruvalle"><img src="https://avatars.githubusercontent.com/u/91233207?v=4" title="iddan" width="50" height="50"></a>
