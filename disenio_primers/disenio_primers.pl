@@ -50,16 +50,16 @@ while($feature = $gffio->next_feature())
 	if ($feature->strand > 0)
 	{
 		$seqstr = $seq->trunc($inicio, $fin)->seq;
-		$seq_fw = $seq->trunc($inicio-15, $inicio+4)->seq;
+		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
 		$seq_fw =~ tr/ACGT/TGCA/;	
-		$seq_rv = $seq->trunc($fin-4, $fin+15)->seq;
+		$seq_rv = $seq->trunc($fin-5, $fin+14)->seq;
 	}
 	else
 	{
 		$seqstr = $seq->trunc($inicio, $fin)->seq;
 		$seqstr =~ tr/ACGT/TGCA/;
-		$seq_fw = $seq->trunc($inicio-15, $inicio+4)->seq;
-		$seq_rv = $seq->trunc($fin-4, $fin+15)->seq;
+		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
+		$seq_rv = $seq->trunc($fin-14, $fin+5)->seq;
 		$seq_rv =~ tr/ACGT/TGCA/;
 	}
 
