@@ -52,7 +52,8 @@ while($feature = $gffio->next_feature())
 		$seqstr = $seq->trunc($inicio, $fin)->seq;
 		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
 		$seq_fw =~ tr/ACGT/TGCA/;	
-		$seq_rv = $seq->trunc($fin-5, $fin+14)->seq;
+		$seq_rv = $seq->trunc($fin-13, $fin+6)->seq;
+		$seq_rv = reverse $seq_rv;
 	}
 	else
 	{
