@@ -164,7 +164,6 @@ with tqdm(records, desc="Procesando secuencias", bar_format=bar_format, dynamic_
             "pfam_type": pfam_info["pfam_type"].iloc[0] if not pfam_info.empty else None,
             "pfam_start": pfam_info["pfam_start"].iloc[0] if not pfam_info.empty else None,
             "pfam_end": pfam_info["pfam_end"].iloc[0] if not pfam_info.empty else None,
-#            "interpro_scan": None,  # Puedes añadir interpro_scan después
             "location": location_info["Localization"].iloc[0]
         }
         
