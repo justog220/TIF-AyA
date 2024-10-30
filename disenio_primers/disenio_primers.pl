@@ -41,7 +41,7 @@ while($feature = $gffio->next_feature())
 {
 	my @ids = $feature->get_tag_values('ID');
 	my $gen = $ids[0];
-	print "Feature for ",$feature->get_tag_values('ID')," starts ",$feature->start," ends ", $feature->end," strand ",$feature->strand,"\n";
+	# print "Feature for ",$feature->get_tag_values('ID')," starts ",$feature->start," ends ", $feature->end," strand ",$feature->strand," length ",$feature->length,"\n";
 	my $inicio = $feature->start;
 	my $fin = $feature->end;
 	my $seqstr;
@@ -49,7 +49,7 @@ while($feature = $gffio->next_feature())
 	my $seq_rv;
 	if ($feature->strand > 0)
 	{
-		$seqstr = $seq->trunc($inicio, $fin)->seq;
+		$seqstr = $seq->trunc($inicio-5, $fin+5)->seq;
 		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
 		$seq_fw =~ tr/ACGT/TGCA/;	
 		$seq_rv = $seq->trunc($fin-14, $fin+5)->seq;
@@ -57,8 +57,9 @@ while($feature = $gffio->next_feature())
 	}
 	else
 	{
-		$seqstr = $seq->trunc($inicio, $fin)->seq;
+		$seqstr = $seq->trunc($inicio-5, $fin+5)->seq;
 		$seqstr =~ tr/ACGT/TGCA/;
+		$seqstr = reverse $seqstr;
 		$seq_fw = $seq->trunc($fin-15, $fin+4)->seq;
 		$seq_fw = reverse $seq_fw;
 		$seq_rv = $seq->trunc($inicio-5, $inicio+14)->seq;
@@ -85,6 +86,7 @@ while($feature = $gffio->next_feature())
 	print SALIDA $gen . "\t" . $seq_fw . "\t" . $Tm_fw . "\t" . $Ta_fw . "\t" . $seq_rv . "\t" . $Tm_rv . "\t" . $Ta_rv . "\t" . $tamanio . "\n";
 
 	my $header = $gen . "-" . $tamanio . "bp";	
+
 	my $new_seq = Bio::Seq->new(-seq => $seqstr,
 								-id => $header);
 
