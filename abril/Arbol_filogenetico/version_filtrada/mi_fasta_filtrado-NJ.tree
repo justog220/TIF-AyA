@@ -1,0 +1,59 @@
+
+Neighbor-Joining/UPGMA method version 3.69.650
+
+
+  11 Populations
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +B_sp._2716
+  ! 
+  !              +-Y_aleksici
+  !          +---1 
+  ! +--------2   +-Y_frederik
+  ! !        ! 
+  ! !        +----Y_ruckeri_
+  3-4 
+  ! ! +B_mic_WP_0
+  ! ! ! 
+  ! ! !     +B_pinniped
+  ! +-7   +-5 
+  !   ! +-8 +P_00002_Gl
+  !   ! ! ! 
+  !   +-9 +B_mic_CCM_
+  !     ! 
+  !     ! +B_inopinat
+  !     +-6 
+  !       +B_sp._15_1
+  ! 
+  +B_sp._13_1
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          B_sp._2716      0.00000
+   3             4            0.00200
+   4             2            0.14680
+   2             1            0.06551
+   1          Y_aleksici      0.03880
+   1          Y_frederik      0.03655
+   2          Y_ruckeri_      0.09100
+   4             7            0.00392
+   7          B_mic_WP_0     -0.00109
+   7             9            0.00089
+   9             8            0.00063
+   8             5            0.00308
+   5          B_pinniped      0.00028
+   5          P_00002_Gl     -0.00027
+   8          B_mic_CCM_      0.00009
+   9             6            0.00262
+   6          B_inopinat     -0.00006
+   6          B_sp._15_1      0.00327
+   3          B_sp._13_1      0.00000
+
+
