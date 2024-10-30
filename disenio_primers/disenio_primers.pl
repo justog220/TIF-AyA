@@ -52,15 +52,16 @@ while($feature = $gffio->next_feature())
 		$seqstr = $seq->trunc($inicio, $fin)->seq;
 		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
 		$seq_fw =~ tr/ACGT/TGCA/;	
-		$seq_rv = $seq->trunc($fin-13, $fin+6)->seq;
+		$seq_rv = $seq->trunc($fin-14, $fin+5)->seq;
 		$seq_rv = reverse $seq_rv;
 	}
 	else
 	{
 		$seqstr = $seq->trunc($inicio, $fin)->seq;
 		$seqstr =~ tr/ACGT/TGCA/;
-		$seq_fw = $seq->trunc($inicio-5, $inicio+14)->seq;
-		$seq_rv = $seq->trunc($fin-14, $fin+5)->seq;
+		$seq_fw = $seq->trunc($fin-15, $fin+4)->seq;
+		$seq_fw = reverse $seq_fw;
+		$seq_rv = $seq->trunc($inicio-5, $inicio+14)->seq;
 		$seq_rv =~ tr/ACGT/TGCA/;
 	}
 
