@@ -29,7 +29,7 @@ print SALIDA "nombre_gen\tsecuencia_fw\tTm_fw\tTa_fw\tsecuencia_rv\tTm_rv\tTa_rv
 
 my $gffio = Bio::Tools::GFF->new(-file => $gff_route, -gff_version =>$version);
 my $seqio = Bio::SeqIO->new(-format => 'fasta', -file => $fasta_route);
-my $seqout= Bio::SeqIO->new( -format => 'Fasta', -file => '>primers.fa');
+my $seqout= Bio::SeqIO->new( -format => 'Fasta', -file => '>productos_pcr.fa');
 my $seq = $seqio->next_seq();
 
 my $feature;
