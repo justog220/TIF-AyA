@@ -81,7 +81,7 @@ while($feature = $gffio->next_feature())
 	my $Tm_rv = 4 * ($conteos_rv{'G'} + $conteos_rv{'C'}) + 2 * ($conteos_rv{'A'} + $conteos_rv{'T'});
 	my $Ta_rv = $Tm_rv - 5;
 
-	my $tamanio = $feature->length;
+	my $tamanio = $feature->length + 10;
 	print SALIDA $gen . "\t" . $seq_fw . "\t" . $Tm_fw . "\t" . $Ta_fw . "\t" . $seq_rv . "\t" . $Tm_rv . "\t" . $Ta_rv . "\t" . $tamanio . "\n";
 
 	my $header = $gen . "-" . $tamanio . "bp";	
