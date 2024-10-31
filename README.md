@@ -36,17 +36,27 @@ Este proyecto es parte de un trabajo integrador donde aplicamos conceptos bioinf
 │   ├── prokka/                     # Anotación de genes y predicciones con Prokka
 │   ├── set3/                       # Secuencias de consenso y bases de datos
 │   └── spades/                     # Datos procesados de ensamblaje con SPAdes
+├── filogenia/
+│   ├── *tree                       # Archivos de árboles generados
+│   ├── *treefile/                  # Archivos de árboles en formato treefile
+│   ├── mi_fasta*                   # Archivo fasta utilizado para el MSA
+│   ├── parser.py                   # Script python utilizado para cambiar el ID de fasta a la especie
+│   └── version_filtrada/           # Análisis filogenético con eliminando regiones del MSA
 └── disenio_primers/                # Script para el diseño de primers
 ```
 
 ## 🔧 Requisitos
 Para ejecutar este proyecto necesitas las siguientes herramientas:
 
-- Python 3.7+
-- BLAST+
+- Python
+- BioPython
+- BLAST
 - Glimmer
 - Prokka
 - SPAdes
+- Quast
+- [DeepLocPro](https://github.com/Jaimomar99/deeplocpro)
+- [pfam_scan](https://github.com/aziele/pfam_scan)
 
 ## 🚀 Etapas del Proyecto
 1. Preprocesamiento de Secuencias
@@ -72,6 +82,7 @@ Cada subdirectorio contiene los resultados específicos de cada análisis:
 - `data/glimmer`: Archivos de predicción de ORFs.
 - `data/prokka`: Archivos de anotación de genes y predicciones con Prokka.
 - `anotacion/blast_output`: Archivos XML de resultados BLASTp para los genes predichos con Prokka.
+- `filogenia/`: Diferentes archivos utilizados en el análisis filogenético.
 - `disenio_primers`: Archivo de primers en formato fasta y tabla con temperaturas de melting y longitud de producto.
 
 ## 📈 Informe y Documentación
