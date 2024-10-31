@@ -86,7 +86,7 @@ Cada subdirectorio contiene los resultados específicos de cada análisis:
 - `disenio_primers`: Archivo de primers en formato fasta y tabla con temperaturas de melting y longitud de producto.
 
 ## 📈 Informe y Documentación
-Una versión más académica y extendida de los procesos llevados a cabo puede visualizarse en [`Informe.pdf`](https://github.com/justog220/TIF-AyA/blob/main/Informe.pdf).
+Una versión más académica y extendida de los procesos llevados a cabo puede visualizarse en [PDF](https://github.com/justog220/TIF-AyA/blob/main/Informe%20-%20Garcia%2C%20Valle.pdf).
 
 ## 👥 Integrantes
 <a href="https://github.com/justog220"><img src="https://avatars.githubusercontent.com/u/85772318?v=4" title="justog220" width="50" height="50"></a>
